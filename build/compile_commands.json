@@ -7,6 +7,12 @@
 },
 {
   "directory": "C:/DotaProject/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/DotaProject/build/_deps/sfml-src/include -g -std=gnu++17 -o CMakeFiles\\DotaProject.dir\\HeroLoader.cpp.obj -c C:\\DotaProject\\HeroLoader.cpp",
+  "file": "C:\\DotaProject\\HeroLoader.cpp",
+  "output": "CMakeFiles\\DotaProject.dir\\HeroLoader.cpp.obj"
+},
+{
+  "directory": "C:/DotaProject/build",
   "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DSFML_SYSTEM_EXPORTS -IC:/DotaProject/build/_deps/sfml-src/include -IC:/DotaProject/build/_deps/sfml-src/src -g -std=gnu++17  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o _deps\\sfml-build\\src\\SFML\\System\\CMakeFiles\\sfml-system.dir\\Clock.cpp.obj -c C:\\DotaProject\\build\\_deps\\sfml-src\\src\\SFML\\System\\Clock.cpp",
   "file": "C:\\DotaProject\\build\\_deps\\sfml-src\\src\\SFML\\System\\Clock.cpp",
   "output": "_deps\\sfml-build\\src\\SFML\\System\\CMakeFiles\\sfml-system.dir\\Clock.cpp.obj"
