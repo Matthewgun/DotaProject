@@ -1,6 +1,7 @@
 #include "HeroLoader.h"
 #include <iostream>
 
+
 HeroLoader::HeroLoader() {
     sprites.resize(4); // Резервируем место для 4 героев
     selected.resize(4, std::vector<bool>(35, false)); // Инициализируем состояние выделения для каждого спрайта
@@ -38,6 +39,7 @@ void HeroLoader::setupHeroSprites(const sf::Texture& texture, std::vector<sf::Sp
             sprite.setScale(0.55f, 0.55f); // Масштабирование
             sprite.setPosition(horizontalOffset + (col * spriteWidth * 0.57f), 550 + (row * spriteHeight * 0.57f)); // Позиционирование
             heroSprites.push_back(sprite); // Добавляем спрайт в вектор
+            spriteInfo.addSprite(texture, heroIndex * 35 + row * 5 + col);;
         }
     }
 }
@@ -74,10 +76,15 @@ void HeroLoader::handleMouseClick(const sf::Vector2f& mousePos) {
             auto& sprite = sprites[j][i]; 
 
             if (sprite.getGlobalBounds().contains(mousePos)) { 
-                selectSprite(j, i); // Выделяем спрайт при нажатии
+                selectSprite(j, i);
+                spriteInfo.printSpriteInfo(j * 35 + i); // Выделяем спрайт при нажатии
+                
             } else {
                 deselectSprite(j, i); // Снимаем выделение с других спрайтов
             }
+
+            
+
         }
     }
 }

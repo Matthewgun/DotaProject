@@ -4,7 +4,8 @@
 #include <SFML/Graphics.hpp>
 #include <string>
 #include <vector>
-
+#include "Spriteinfo.h"
+#include "Choosing.h"
 class HeroLoader {
 public:
     HeroLoader();
@@ -16,7 +17,7 @@ public:
     void handleMouseClick(const sf::Vector2f& mousePos);
 private:
     void setupHeroSprites(const sf::Texture& texture, std::vector<sf::Sprite>& sprites, int heroIndex); // Метод для настройки спрайтов героев
-
+    SpriteInfo spriteInfo;
     sf::Texture texture1, texture2, texture3, texture4; // Текстуры
     std::vector<std::vector<sf::Sprite>> sprites; // Вектор векторов для хранения спрайтов каждого героя
     std::vector<std::vector<bool>> selected; // Вектор векторов для хранения состояния выделения спрайтов

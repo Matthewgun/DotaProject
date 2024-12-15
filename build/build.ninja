@@ -70,6 +70,13 @@ build CMakeFiles/DotaProject.dir/Choosing.cpp.obj: CXX_COMPILER__DotaProject_uns
   OBJECT_DIR = CMakeFiles\DotaProject.dir
   OBJECT_FILE_DIR = CMakeFiles\DotaProject.dir
 
+build CMakeFiles/DotaProject.dir/Spriteinfo.cpp.obj: CXX_COMPILER__DotaProject_unscanned_Debug C$:/DotaProject/Spriteinfo.cpp || cmake_object_order_depends_target_DotaProject
+  DEP_FILE = CMakeFiles\DotaProject.dir\Spriteinfo.cpp.obj.d
+  FLAGS = -g -std=gnu++17
+  INCLUDES = -IC:/DotaProject/build/_deps/sfml-src/include
+  OBJECT_DIR = CMakeFiles\DotaProject.dir
+  OBJECT_FILE_DIR = CMakeFiles\DotaProject.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target DotaProject
@@ -78,7 +85,7 @@ build CMakeFiles/DotaProject.dir/Choosing.cpp.obj: CXX_COMPILER__DotaProject_uns
 #############################################
 # Link the executable C:\DotaProject\DotaProject.exe
 
-build C$:/DotaProject/DotaProject.exe: CXX_EXECUTABLE_LINKER__DotaProject_Debug CMakeFiles/DotaProject.dir/main.cpp.obj CMakeFiles/DotaProject.dir/HeroLoader.cpp.obj CMakeFiles/DotaProject.dir/Choosing.cpp.obj | _deps/sfml-build/lib/libsfml-graphics-d.a _deps/sfml-build/lib/libsfml-window-d.a _deps/sfml-build/lib/libsfml-audio-d.a _deps/sfml-build/lib/libsfml-system-d.a || C$:/DotaProject/sfml-audio-d-2.dll C$:/DotaProject/sfml-graphics-d-2.dll C$:/DotaProject/sfml-system-d-2.dll C$:/DotaProject/sfml-window-d-2.dll
+build C$:/DotaProject/DotaProject.exe: CXX_EXECUTABLE_LINKER__DotaProject_Debug CMakeFiles/DotaProject.dir/main.cpp.obj CMakeFiles/DotaProject.dir/HeroLoader.cpp.obj CMakeFiles/DotaProject.dir/Choosing.cpp.obj CMakeFiles/DotaProject.dir/Spriteinfo.cpp.obj | _deps/sfml-build/lib/libsfml-graphics-d.a _deps/sfml-build/lib/libsfml-window-d.a _deps/sfml-build/lib/libsfml-audio-d.a _deps/sfml-build/lib/libsfml-system-d.a || C$:/DotaProject/sfml-audio-d-2.dll C$:/DotaProject/sfml-graphics-d-2.dll C$:/DotaProject/sfml-system-d-2.dll C$:/DotaProject/sfml-window-d-2.dll
   FLAGS = -g
   LINK_LIBRARIES = _deps/sfml-build/lib/libsfml-graphics-d.a  _deps/sfml-build/lib/libsfml-window-d.a  _deps/sfml-build/lib/libsfml-audio-d.a  _deps/sfml-build/lib/libsfml-system-d.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\DotaProject.dir
