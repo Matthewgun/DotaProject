@@ -1,0 +1,5798 @@
+{
+  "abaddon": {
+    "worst_matchups": [
+      {
+        "hero": "Elder Titan",
+        "disadvantage": 3.59
+      },
+      {
+        "hero": "Dark Seer",
+        "disadvantage": 3.42
+      },
+      {
+        "hero": "AntiMage",
+        "disadvantage": -3.37
+      },
+      {
+        "hero": "Lone Druid",
+        "disadvantage": 3.3
+      },
+      {
+        "hero": "Doom",
+        "disadvantage": 3.16
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Wraith King",
+        "disadvantage": -1.95
+      },
+      {
+        "hero": "Skywrath Mage",
+        "disadvantage": -2.07
+      },
+      {
+        "hero": "Silencer",
+        "disadvantage": -2.08
+      },
+      {
+        "hero": "Axe",
+        "disadvantage": -2.54
+      },
+      {
+        "hero": "Spectre",
+        "disadvantage": -4.85
+      }
+    ]
+  },
+  "alchemist": {
+    "worst_matchups": [
+      {
+        "hero": "Ancient Apparition",
+        "disadvantage": 2.17
+      },
+      {
+        "hero": "Doom",
+        "disadvantage": 2.04
+      },
+      {
+        "hero": "Batrider",
+        "disadvantage": 1.68
+      },
+      {
+        "hero": "Timbersaw",
+        "disadvantage": 1.58
+      },
+      {
+        "hero": "Huskar",
+        "disadvantage": 1.57
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Centaur Warrunner",
+        "disadvantage": -1.96
+      },
+      {
+        "hero": "Enigma",
+        "disadvantage": -2.02
+      },
+      {
+        "hero": "Brewmaster",
+        "disadvantage": -2.21
+      },
+      {
+        "hero": "Wraith King",
+        "disadvantage": -2.7
+      },
+      {
+        "hero": "Medusa",
+        "disadvantage": -3.46
+      }
+    ]
+  },
+  "ancient-apparition": {
+    "worst_matchups": [
+      {
+        "hero": "Storm Spirit",
+        "disadvantage": 3.16
+      },
+      {
+        "hero": "Lycan",
+        "disadvantage": 3.09
+      },
+      {
+        "hero": "AntiMage",
+        "disadvantage": -2.95
+      },
+      {
+        "hero": "Void Spirit",
+        "disadvantage": 2.61
+      },
+      {
+        "hero": "Phantom Lancer",
+        "disadvantage": 2.58
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Bristleback",
+        "disadvantage": -2.36
+      },
+      {
+        "hero": "Io",
+        "disadvantage": -2.43
+      },
+      {
+        "hero": "Dazzle",
+        "disadvantage": -2.66
+      },
+      {
+        "hero": "Necrophos",
+        "disadvantage": -4.76
+      },
+      {
+        "hero": "Huskar",
+        "disadvantage": -6.86
+      }
+    ]
+  },
+  "anti-mage": {
+    "worst_matchups": [
+      {
+        "hero": "Meepo",
+        "disadvantage": 7.36
+      },
+      {
+        "hero": "Huskar",
+        "disadvantage": 5.83
+      },
+      {
+        "hero": "Phantom Assassin",
+        "disadvantage": 5.25
+      },
+      {
+        "hero": "Axe",
+        "disadvantage": 4.63
+      },
+      {
+        "hero": "Lone Druid",
+        "disadvantage": 3.98
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Razor",
+        "disadvantage": -3.07
+      },
+      {
+        "hero": "Phantom Lancer",
+        "disadvantage": -3.33
+      },
+      {
+        "hero": "Abaddon",
+        "disadvantage": -3.47
+      },
+      {
+        "hero": "Storm Spirit",
+        "disadvantage": -4.21
+      },
+      {
+        "hero": "Medusa",
+        "disadvantage": -10.48
+      }
+    ]
+  },
+  "arc-warden": {
+    "worst_matchups": [
+      {
+        "hero": "Broodmother",
+        "disadvantage": 6.29
+      },
+      {
+        "hero": "Meepo",
+        "disadvantage": 5.99
+      },
+      {
+        "hero": "Phantom Lancer",
+        "disadvantage": 4.41
+      },
+      {
+        "hero": "Lycan",
+        "disadvantage": 3.13
+      },
+      {
+        "hero": "Warlock",
+        "disadvantage": 3.05
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Disruptor",
+        "disadvantage": -2.89
+      },
+      {
+        "hero": "Necrophos",
+        "disadvantage": -2.91
+      },
+      {
+        "hero": "Templar Assassin",
+        "disadvantage": -3.32
+      },
+      {
+        "hero": "Outworld Destroyer",
+        "disadvantage": -3.79
+      },
+      {
+        "hero": "Night Stalker",
+        "disadvantage": -3.87
+      }
+    ]
+  },
+  "axe": {
+    "worst_matchups": [
+      {
+        "hero": "Leshrac",
+        "disadvantage": 3.54
+      },
+      {
+        "hero": "Outworld Destroyer",
+        "disadvantage": 3.41
+      },
+      {
+        "hero": "Timbersaw",
+        "disadvantage": 3.31
+      },
+      {
+        "hero": "Primal Beast",
+        "disadvantage": 3.22
+      },
+      {
+        "hero": "Venomancer",
+        "disadvantage": 2.98
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Broodmother",
+        "disadvantage": -3.18
+      },
+      {
+        "hero": "Terrorblade",
+        "disadvantage": -3.25
+      },
+      {
+        "hero": "Phantom Assassin",
+        "disadvantage": -3.41
+      },
+      {
+        "hero": "AntiMage",
+        "disadvantage": 3.98
+      },
+      {
+        "hero": "Troll Warlord",
+        "disadvantage": -4.16
+      }
+    ]
+  },
+  "bane": {
+    "worst_matchups": [
+      {
+        "hero": "Meepo",
+        "disadvantage": 3.26
+      },
+      {
+        "hero": "Chaos Knight",
+        "disadvantage": 2.88
+      },
+      {
+        "hero": "Slark",
+        "disadvantage": 2.54
+      },
+      {
+        "hero": "Tidehunter",
+        "disadvantage": 2.42
+      },
+      {
+        "hero": "Abaddon",
+        "disadvantage": 2.39
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Puck",
+        "disadvantage": -1.73
+      },
+      {
+        "hero": "Primal Beast",
+        "disadvantage": -1.77
+      },
+      {
+        "hero": "Morphling",
+        "disadvantage": -2.18
+      },
+      {
+        "hero": "Brewmaster",
+        "disadvantage": -2.43
+      },
+      {
+        "hero": "Ember Spirit",
+        "disadvantage": -2.88
+      }
+    ]
+  },
+  "batrider": {
+    "worst_matchups": [
+      {
+        "hero": "Enigma",
+        "disadvantage": 1.84
+      },
+      {
+        "hero": "Viper",
+        "disadvantage": 1.77
+      },
+      {
+        "hero": "Weaver",
+        "disadvantage": 1.66
+      },
+      {
+        "hero": "Faceless Void",
+        "disadvantage": 1.64
+      },
+      {
+        "hero": "Crystal Maiden",
+        "disadvantage": 1.64
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Marci",
+        "disadvantage": -2.38
+      },
+      {
+        "hero": "Monkey King",
+        "disadvantage": -2.39
+      },
+      {
+        "hero": "Keeper of the Light",
+        "disadvantage": -2.48
+      },
+      {
+        "hero": "Elder Titan",
+        "disadvantage": -2.52
+      },
+      {
+        "hero": "Templar Assassin",
+        "disadvantage": -3.79
+      }
+    ]
+  },
+  "beastmaster": {
+    "worst_matchups": [
+      {
+        "hero": "Chen",
+        "disadvantage": 6.8
+      },
+      {
+        "hero": "Medusa",
+        "disadvantage": 5.18
+      },
+      {
+        "hero": "Bristleback",
+        "disadvantage": 3.76
+      },
+      {
+        "hero": "Keeper of the Light",
+        "disadvantage": 3.34
+      },
+      {
+        "hero": "Sand King",
+        "disadvantage": 3.01
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "AntiMage",
+        "disadvantage": 2.5
+      },
+      {
+        "hero": "Wraith King",
+        "disadvantage": -3.02
+      },
+      {
+        "hero": "Spectre",
+        "disadvantage": -3.28
+      },
+      {
+        "hero": "Night Stalker",
+        "disadvantage": -3.38
+      },
+      {
+        "hero": "Clockwerk",
+        "disadvantage": -3.61
+      }
+    ]
+  },
+  "bloodseeker": {
+    "worst_matchups": [
+      {
+        "hero": "Medusa",
+        "disadvantage": 5.68
+      },
+      {
+        "hero": "Storm Spirit",
+        "disadvantage": 3.08
+      },
+      {
+        "hero": "Natures Prophet",
+        "disadvantage": 3.06
+      },
+      {
+        "hero": "Enchantress",
+        "disadvantage": 2.57
+      },
+      {
+        "hero": "Juggernaut",
+        "disadvantage": 2.55
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "AntiMage",
+        "disadvantage": 2.42
+      },
+      {
+        "hero": "Night Stalker",
+        "disadvantage": -2.53
+      },
+      {
+        "hero": "Phoenix",
+        "disadvantage": -2.53
+      },
+      {
+        "hero": "Slark",
+        "disadvantage": -2.88
+      },
+      {
+        "hero": "Pangolier",
+        "disadvantage": -3.57
+      }
+    ]
+  },
+  "bounty-hunter": {
+    "worst_matchups": [
+      {
+        "hero": "Naga Siren",
+        "disadvantage": 3.75
+      },
+      {
+        "hero": "Meepo",
+        "disadvantage": 3.22
+      },
+      {
+        "hero": "Chaos Knight",
+        "disadvantage": 2.59
+      },
+      {
+        "hero": "Shadow Shaman",
+        "disadvantage": 2.42
+      },
+      {
+        "hero": "Tidehunter",
+        "disadvantage": 2.34
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Night Stalker",
+        "disadvantage": -1.45
+      },
+      {
+        "hero": "Warlock",
+        "disadvantage": -1.46
+      },
+      {
+        "hero": "Bristleback",
+        "disadvantage": -1.57
+      },
+      {
+        "hero": "Sand King",
+        "disadvantage": -1.71
+      },
+      {
+        "hero": "Clinkz",
+        "disadvantage": -1.86
+      }
+    ]
+  },
+  "brewmaster": {
+    "worst_matchups": [
+      {
+        "hero": "Leshrac",
+        "disadvantage": 2.72
+      },
+      {
+        "hero": "Bristleback",
+        "disadvantage": 2.7
+      },
+      {
+        "hero": "Mirana",
+        "disadvantage": 2.53
+      },
+      {
+        "hero": "Slark",
+        "disadvantage": 2.51
+      },
+      {
+        "hero": "Alchemist",
+        "disadvantage": 2.5
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Chen",
+        "disadvantage": -2.41
+      },
+      {
+        "hero": "Viper",
+        "disadvantage": -2.5
+      },
+      {
+        "hero": "Chaos Knight",
+        "disadvantage": -2.5
+      },
+      {
+        "hero": "Venomancer",
+        "disadvantage": -2.81
+      },
+      {
+        "hero": "Lone Druid",
+        "disadvantage": -3.08
+      }
+    ]
+  },
+  "bristleback": {
+    "worst_matchups": [
+      {
+        "hero": "Viper",
+        "disadvantage": 4.72
+      },
+      {
+        "hero": "Slark",
+        "disadvantage": 4.56
+      },
+      {
+        "hero": "Legion Commander",
+        "disadvantage": 4.27
+      },
+      {
+        "hero": "Hoodwink",
+        "disadvantage": 3.52
+      },
+      {
+        "hero": "Juggernaut",
+        "disadvantage": 3.0
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Centaur Warrunner",
+        "disadvantage": -3.19
+      },
+      {
+        "hero": "Meepo",
+        "disadvantage": -3.2
+      },
+      {
+        "hero": "Beastmaster",
+        "disadvantage": -3.34
+      },
+      {
+        "hero": "Enigma",
+        "disadvantage": -3.53
+      },
+      {
+        "hero": "Riki",
+        "disadvantage": -4.61
+      }
+    ]
+  },
+  "broodmother": {
+    "worst_matchups": [
+      {
+        "hero": "Earthshaker",
+        "disadvantage": 9.15
+      },
+      {
+        "hero": "Naga Siren",
+        "disadvantage": 4.87
+      },
+      {
+        "hero": "Axe",
+        "disadvantage": 4.15
+      },
+      {
+        "hero": "Terrorblade",
+        "disadvantage": 3.48
+      },
+      {
+        "hero": "Phantom Lancer",
+        "disadvantage": 3.19
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Lone Druid",
+        "disadvantage": -3.7
+      },
+      {
+        "hero": "Outworld Destroyer",
+        "disadvantage": -3.72
+      },
+      {
+        "hero": "Night Stalker",
+        "disadvantage": -3.86
+      },
+      {
+        "hero": "Lifestealer",
+        "disadvantage": -3.86
+      },
+      {
+        "hero": "Arc Warden",
+        "disadvantage": -6.27
+      }
+    ]
+  },
+  "centaur-warrunner": {
+    "worst_matchups": [
+      {
+        "hero": "Lifestealer",
+        "disadvantage": 5.01
+      },
+      {
+        "hero": "Bristleback",
+        "disadvantage": 3.23
+      },
+      {
+        "hero": "Meepo",
+        "disadvantage": 2.34
+      },
+      {
+        "hero": "Ember Spirit",
+        "disadvantage": 2.28
+      },
+      {
+        "hero": "Undying",
+        "disadvantage": 2.21
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Drow Ranger",
+        "disadvantage": -2.22
+      },
+      {
+        "hero": "Muerta",
+        "disadvantage": -2.88
+      },
+      {
+        "hero": "Windranger",
+        "disadvantage": -3.12
+      },
+      {
+        "hero": "Sniper",
+        "disadvantage": -3.42
+      },
+      {
+        "hero": "Medusa",
+        "disadvantage": -3.67
+      }
+    ]
+  },
+  "chaos-knight": {
+    "worst_matchups": [
+      {
+        "hero": "Sand King",
+        "disadvantage": 4.07
+      },
+      {
+        "hero": "Warlock",
+        "disadvantage": 4.01
+      },
+      {
+        "hero": "Medusa",
+        "disadvantage": 3.76
+      },
+      {
+        "hero": "Naga Siren",
+        "disadvantage": 3.7
+      },
+      {
+        "hero": "Phantom Lancer",
+        "disadvantage": 3.36
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Oracle",
+        "disadvantage": -2.94
+      },
+      {
+        "hero": "Ogre Magi",
+        "disadvantage": -3.41
+      },
+      {
+        "hero": "Shadow Demon",
+        "disadvantage": -3.58
+      },
+      {
+        "hero": "Huskar",
+        "disadvantage": -3.66
+      },
+      {
+        "hero": "Viper",
+        "disadvantage": -4.1
+      }
+    ]
+  },
+  "chen": {
+    "worst_matchups": [
+      {
+        "hero": "Troll Warlord",
+        "disadvantage": 5.01
+      },
+      {
+        "hero": "Lycan",
+        "disadvantage": 4.46
+      },
+      {
+        "hero": "Meepo",
+        "disadvantage": 4.17
+      },
+      {
+        "hero": "Chaos Knight",
+        "disadvantage": 2.59
+      },
+      {
+        "hero": "Marci",
+        "disadvantage": 2.57
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Zeus",
+        "disadvantage": -2.73
+      },
+      {
+        "hero": "Clockwerk",
+        "disadvantage": -3.02
+      },
+      {
+        "hero": "Silencer",
+        "disadvantage": -3.92
+      },
+      {
+        "hero": "Beastmaster",
+        "disadvantage": -6.92
+      },
+      {
+        "hero": "Tidehunter",
+        "disadvantage": -9.14
+      }
+    ]
+  },
+  "clinkz": {
+    "worst_matchups": [
+      {
+        "hero": "Naga Siren",
+        "disadvantage": 3.73
+      },
+      {
+        "hero": "Spectre",
+        "disadvantage": 3.45
+      },
+      {
+        "hero": "Morphling",
+        "disadvantage": 3.22
+      },
+      {
+        "hero": "Bristleback",
+        "disadvantage": 3.03
+      },
+      {
+        "hero": "Broodmother",
+        "disadvantage": 2.96
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Brewmaster",
+        "disadvantage": -1.97
+      },
+      {
+        "hero": "Pangolier",
+        "disadvantage": -2.73
+      },
+      {
+        "hero": "Ursa",
+        "disadvantage": -2.78
+      },
+      {
+        "hero": "Juggernaut",
+        "disadvantage": -3.09
+      },
+      {
+        "hero": "Lifestealer",
+        "disadvantage": -3.32
+      }
+    ]
+  },
+  "clockwerk": {
+    "worst_matchups": [
+      {
+        "hero": "Meepo",
+        "disadvantage": 3.99
+      },
+      {
+        "hero": "Beastmaster",
+        "disadvantage": 3.77
+      },
+      {
+        "hero": "Chen",
+        "disadvantage": 3.62
+      },
+      {
+        "hero": "Huskar",
+        "disadvantage": 3.61
+      },
+      {
+        "hero": "Phantom Lancer",
+        "disadvantage": 2.98
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Pudge",
+        "disadvantage": -1.62
+      },
+      {
+        "hero": "Earthshaker",
+        "disadvantage": -1.66
+      },
+      {
+        "hero": "Razor",
+        "disadvantage": -1.98
+      },
+      {
+        "hero": "Slark",
+        "disadvantage": -2.23
+      },
+      {
+        "hero": "Spirit Breaker",
+        "disadvantage": -2.79
+      }
+    ]
+  },
+  "crystal-maiden": {
+    "worst_matchups": [
+      {
+        "hero": "Rubick",
+        "disadvantage": 2.35
+      },
+      {
+        "hero": "Pudge",
+        "disadvantage": 1.78
+      },
+      {
+        "hero": "Dawnbreaker",
+        "disadvantage": 1.76
+      },
+      {
+        "hero": "Enigma",
+        "disadvantage": 1.68
+      },
+      {
+        "hero": "Bristleback",
+        "disadvantage": 1.51
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Troll Warlord",
+        "disadvantage": -1.9
+      },
+      {
+        "hero": "Wraith King",
+        "disadvantage": -2.25
+      },
+      {
+        "hero": "Broodmother",
+        "disadvantage": -2.76
+      },
+      {
+        "hero": "Meepo",
+        "disadvantage": -3.31
+      },
+      {
+        "hero": "Phantom Lancer",
+        "disadvantage": -3.54
+      }
+    ]
+  },
+  "dark-seer": {
+    "worst_matchups": [
+      {
+        "hero": "Enchantress",
+        "disadvantage": 2.89
+      },
+      {
+        "hero": "Faceless Void",
+        "disadvantage": 2.67
+      },
+      {
+        "hero": "Weaver",
+        "disadvantage": 2.41
+      },
+      {
+        "hero": "Timbersaw",
+        "disadvantage": 2.32
+      },
+      {
+        "hero": "Ursa",
+        "disadvantage": 2.28
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Chaos Knight",
+        "disadvantage": -2.89
+      },
+      {
+        "hero": "Terrorblade",
+        "disadvantage": -3.2
+      },
+      {
+        "hero": "Abaddon",
+        "disadvantage": -3.28
+      },
+      {
+        "hero": "Visage",
+        "disadvantage": -3.78
+      },
+      {
+        "hero": "Medusa",
+        "disadvantage": -6.4
+      }
+    ]
+  },
+  "dark-willow": {
+    "worst_matchups": [
+      {
+        "hero": "Naga Siren",
+        "disadvantage": 2.98
+      },
+      {
+        "hero": "Phantom Lancer",
+        "disadvantage": 2.21
+      },
+      {
+        "hero": "Axe",
+        "disadvantage": 2.08
+      },
+      {
+        "hero": "Juggernaut",
+        "disadvantage": 2.02
+      },
+      {
+        "hero": "Legion Commander",
+        "disadvantage": 1.51
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Spirit Breaker",
+        "disadvantage": -1.65
+      },
+      {
+        "hero": "Dawnbreaker",
+        "disadvantage": -1.68
+      },
+      {
+        "hero": "Weaver",
+        "disadvantage": -1.73
+      },
+      {
+        "hero": "Night Stalker",
+        "disadvantage": -1.74
+      },
+      {
+        "hero": "Marci",
+        "disadvantage": -2.06
+      }
+    ]
+  },
+  "dawnbreaker": {
+    "worst_matchups": [
+      {
+        "hero": "Elder Titan",
+        "disadvantage": 2.86
+      },
+      {
+        "hero": "Winter Wyvern",
+        "disadvantage": 2.57
+      },
+      {
+        "hero": "Silencer",
+        "disadvantage": 2.56
+      },
+      {
+        "hero": "Bristleback",
+        "disadvantage": 2.22
+      },
+      {
+        "hero": "Phoenix",
+        "disadvantage": 1.94
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Beastmaster",
+        "disadvantage": -2.07
+      },
+      {
+        "hero": "Phantom Assassin",
+        "disadvantage": -2.1
+      },
+      {
+        "hero": "Slark",
+        "disadvantage": -2.61
+      },
+      {
+        "hero": "Naga Siren",
+        "disadvantage": -2.91
+      },
+      {
+        "hero": "Legion Commander",
+        "disadvantage": -3.25
+      }
+    ]
+  },
+  "dazzle": {
+    "worst_matchups": [
+      {
+        "hero": "Ancient Apparition",
+        "disadvantage": 2.52
+      },
+      {
+        "hero": "Tidehunter",
+        "disadvantage": 2.24
+      },
+      {
+        "hero": "Slark",
+        "disadvantage": 1.68
+      },
+      {
+        "hero": "Weaver",
+        "disadvantage": 1.61
+      },
+      {
+        "hero": "Axe",
+        "disadvantage": 1.47
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Visage",
+        "disadvantage": -1.8
+      },
+      {
+        "hero": "Centaur Warrunner",
+        "disadvantage": -1.86
+      },
+      {
+        "hero": "Meepo",
+        "disadvantage": -2.12
+      },
+      {
+        "hero": "Wraith King",
+        "disadvantage": -2.68
+      },
+      {
+        "hero": "Naga Siren",
+        "disadvantage": -2.73
+      }
+    ]
+  },
+  "death-prophet": {
+    "worst_matchups": [
+      {
+        "hero": "Undying",
+        "disadvantage": 2.64
+      },
+      {
+        "hero": "Razor",
+        "disadvantage": 2.28
+      },
+      {
+        "hero": "Naga Siren",
+        "disadvantage": 2.1
+      },
+      {
+        "hero": "Sniper",
+        "disadvantage": 2.03
+      },
+      {
+        "hero": "Ancient Apparition",
+        "disadvantage": 1.97
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Lifestealer",
+        "disadvantage": -2.31
+      },
+      {
+        "hero": "Phoenix",
+        "disadvantage": -2.39
+      },
+      {
+        "hero": "Timbersaw",
+        "disadvantage": -2.51
+      },
+      {
+        "hero": "Meepo",
+        "disadvantage": -2.91
+      },
+      {
+        "hero": "Necrophos",
+        "disadvantage": -3.56
+      }
+    ]
+  },
+  "disruptor": {
+    "worst_matchups": [
+      {
+        "hero": "Arc Warden",
+        "disadvantage": 2.76
+      },
+      {
+        "hero": "Sniper",
+        "disadvantage": 1.93
+      },
+      {
+        "hero": "Templar Assassin",
+        "disadvantage": 1.71
+      },
+      {
+        "hero": "Natures Prophet",
+        "disadvantage": 1.55
+      },
+      {
+        "hero": "Pugna",
+        "disadvantage": 1.42
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Dark Seer",
+        "disadvantage": -1.36
+      },
+      {
+        "hero": "Necrophos",
+        "disadvantage": -1.44
+      },
+      {
+        "hero": "Meepo",
+        "disadvantage": -1.84
+      },
+      {
+        "hero": "AntiMage",
+        "disadvantage": 2.14
+      },
+      {
+        "hero": "Slark",
+        "disadvantage": -4.58
+      }
+    ]
+  },
+  "doom": {
+    "worst_matchups": [
+      {
+        "hero": "Arc Warden",
+        "disadvantage": 2.57
+      },
+      {
+        "hero": "Medusa",
+        "disadvantage": 2.45
+      },
+      {
+        "hero": "Invoker",
+        "disadvantage": 1.93
+      },
+      {
+        "hero": "Broodmother",
+        "disadvantage": 1.78
+      },
+      {
+        "hero": "Lone Druid",
+        "disadvantage": 1.67
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Io",
+        "disadvantage": -2.42
+      },
+      {
+        "hero": "Abaddon",
+        "disadvantage": -2.84
+      },
+      {
+        "hero": "Morphling",
+        "disadvantage": -3.48
+      },
+      {
+        "hero": "Omniknight",
+        "disadvantage": -3.52
+      },
+      {
+        "hero": "Necrophos",
+        "disadvantage": -3.74
+      }
+    ]
+  },
+  "dragon-knight": {
+    "worst_matchups": [
+      {
+        "hero": "Viper",
+        "disadvantage": 2.91
+      },
+      {
+        "hero": "Necrophos",
+        "disadvantage": 2.42
+      },
+      {
+        "hero": "Huskar",
+        "disadvantage": 1.99
+      },
+      {
+        "hero": "Slark",
+        "disadvantage": 1.93
+      },
+      {
+        "hero": "Venomancer",
+        "disadvantage": 1.91
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Axe",
+        "disadvantage": -1.87
+      },
+      {
+        "hero": "Shadow Fiend",
+        "disadvantage": -1.91
+      },
+      {
+        "hero": "Legion Commander",
+        "disadvantage": -2.03
+      },
+      {
+        "hero": "Void Spirit",
+        "disadvantage": -2.06
+      },
+      {
+        "hero": "Bristleback",
+        "disadvantage": -2.26
+      }
+    ]
+  },
+  "drow-ranger": {
+    "worst_matchups": [
+      {
+        "hero": "Phantom Lancer",
+        "disadvantage": 4.08
+      },
+      {
+        "hero": "Mars",
+        "disadvantage": 3.52
+      },
+      {
+        "hero": "Spectre",
+        "disadvantage": 2.72
+      },
+      {
+        "hero": "Pudge",
+        "disadvantage": 2.67
+      },
+      {
+        "hero": "Naga Siren",
+        "disadvantage": 2.59
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Pangolier",
+        "disadvantage": -1.68
+      },
+      {
+        "hero": "Slardar",
+        "disadvantage": -1.69
+      },
+      {
+        "hero": "Shadow Fiend",
+        "disadvantage": -2.04
+      },
+      {
+        "hero": "Necrophos",
+        "disadvantage": -2.32
+      },
+      {
+        "hero": "Bristleback",
+        "disadvantage": -2.58
+      }
+    ]
+  },
+  "earth-spirit": {
+    "worst_matchups": [
+      {
+        "hero": "Lone Druid",
+        "disadvantage": 3.21
+      },
+      {
+        "hero": "Meepo",
+        "disadvantage": 2.97
+      },
+      {
+        "hero": "Elder Titan",
+        "disadvantage": 2.94
+      },
+      {
+        "hero": "Troll Warlord",
+        "disadvantage": 2.82
+      },
+      {
+        "hero": "Juggernaut",
+        "disadvantage": 2.78
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Mars",
+        "disadvantage": -1.81
+      },
+      {
+        "hero": "Arc Warden",
+        "disadvantage": -1.89
+      },
+      {
+        "hero": "Phantom Assassin",
+        "disadvantage": -2.07
+      },
+      {
+        "hero": "Drow Ranger",
+        "disadvantage": -2.45
+      },
+      {
+        "hero": "Sniper",
+        "disadvantage": -3.2
+      }
+    ]
+  },
+  "earthshaker": {
+    "worst_matchups": [
+      {
+        "hero": "Templar Assassin",
+        "disadvantage": 2.22
+      },
+      {
+        "hero": "Huskar",
+        "disadvantage": 1.85
+      },
+      {
+        "hero": "Sniper",
+        "disadvantage": 1.79
+      },
+      {
+        "hero": "Windranger",
+        "disadvantage": 1.61
+      },
+      {
+        "hero": "Bristleback",
+        "disadvantage": 1.39
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Naga Siren",
+        "disadvantage": -2.67
+      },
+      {
+        "hero": "Lone Druid",
+        "disadvantage": -2.69
+      },
+      {
+        "hero": "Slark",
+        "disadvantage": -2.75
+      },
+      {
+        "hero": "Meepo",
+        "disadvantage": -6.94
+      },
+      {
+        "hero": "Broodmother",
+        "disadvantage": -7.64
+      }
+    ]
+  },
+  "elder-titan": {
+    "worst_matchups": [
+      {
+        "hero": "Troll Warlord",
+        "disadvantage": 6.24
+      },
+      {
+        "hero": "Phantom Assassin",
+        "disadvantage": 3.95
+      },
+      {
+        "hero": "Windranger",
+        "disadvantage": 3.14
+      },
+      {
+        "hero": "Visage",
+        "disadvantage": 3.01
+      },
+      {
+        "hero": "Natures Prophet",
+        "disadvantage": 2.94
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Slark",
+        "disadvantage": -3.35
+      },
+      {
+        "hero": "Abaddon",
+        "disadvantage": -3.5
+      },
+      {
+        "hero": "Lone Druid",
+        "disadvantage": -3.97
+      },
+      {
+        "hero": "Tidehunter",
+        "disadvantage": -4.24
+      },
+      {
+        "hero": "Meepo",
+        "disadvantage": -11.19
+      }
+    ]
+  },
+  "ember-spirit": {
+    "worst_matchups": [
+      {
+        "hero": "Huskar",
+        "disadvantage": 4.71
+      },
+      {
+        "hero": "Meepo",
+        "disadvantage": 4.3
+      },
+      {
+        "hero": "Slark",
+        "disadvantage": 4.03
+      },
+      {
+        "hero": "Monkey King",
+        "disadvantage": 3.95
+      },
+      {
+        "hero": "Troll Warlord",
+        "disadvantage": 3.64
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Void Spirit",
+        "disadvantage": -2.4
+      },
+      {
+        "hero": "Clockwerk",
+        "disadvantage": -2.49
+      },
+      {
+        "hero": "Phantom Lancer",
+        "disadvantage": -3.0
+      },
+      {
+        "hero": "Spectre",
+        "disadvantage": -3.26
+      },
+      {
+        "hero": "Queen of Pain",
+        "disadvantage": -4.38
+      }
+    ]
+  },
+  "enchantress": {
+    "worst_matchups": [
+      {
+        "hero": "Phantom Assassin",
+        "disadvantage": 4.01
+      },
+      {
+        "hero": "Chen",
+        "disadvantage": 1.93
+      },
+      {
+        "hero": "Crystal Maiden",
+        "disadvantage": 1.93
+      },
+      {
+        "hero": "Pudge",
+        "disadvantage": 1.84
+      },
+      {
+        "hero": "Mars",
+        "disadvantage": 1.84
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Muerta",
+        "disadvantage": -2.17
+      },
+      {
+        "hero": "Elder Titan",
+        "disadvantage": -2.34
+      },
+      {
+        "hero": "Bloodseeker",
+        "disadvantage": -2.58
+      },
+      {
+        "hero": "Lycan",
+        "disadvantage": -2.79
+      },
+      {
+        "hero": "Dark Seer",
+        "disadvantage": -2.89
+      }
+    ]
+  },
+  "enigma": {
+    "worst_matchups": [
+      {
+        "hero": "Rubick",
+        "disadvantage": 4.34
+      },
+      {
+        "hero": "Bristleback",
+        "disadvantage": 3.76
+      },
+      {
+        "hero": "Warlock",
+        "disadvantage": 3.57
+      },
+      {
+        "hero": "Medusa",
+        "disadvantage": 3.53
+      },
+      {
+        "hero": "Gyrocopter",
+        "disadvantage": 2.67
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Earth Spirit",
+        "disadvantage": -2.06
+      },
+      {
+        "hero": "Meepo",
+        "disadvantage": -2.2
+      },
+      {
+        "hero": "Arc Warden",
+        "disadvantage": -2.23
+      },
+      {
+        "hero": "Slark",
+        "disadvantage": -2.27
+      },
+      {
+        "hero": "Lifestealer",
+        "disadvantage": -3.15
+      }
+    ]
+  },
+  "faceless-void": {
+    "worst_matchups": [
+      {
+        "hero": "Meepo",
+        "disadvantage": 2.62
+      },
+      {
+        "hero": "Legion Commander",
+        "disadvantage": 2.23
+      },
+      {
+        "hero": "Enchantress",
+        "disadvantage": 1.98
+      },
+      {
+        "hero": "Huskar",
+        "disadvantage": 1.98
+      },
+      {
+        "hero": "Night Stalker",
+        "disadvantage": 1.87
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Primal Beast",
+        "disadvantage": -2.5
+      },
+      {
+        "hero": "Timbersaw",
+        "disadvantage": -2.59
+      },
+      {
+        "hero": "Keeper of the Light",
+        "disadvantage": -2.71
+      },
+      {
+        "hero": "Dark Seer",
+        "disadvantage": -2.76
+      },
+      {
+        "hero": "Weaver",
+        "disadvantage": -3.65
+      }
+    ]
+  },
+  "grimstroke": {
+    "worst_matchups": [
+      {
+        "hero": "Razor",
+        "disadvantage": 2.13
+      },
+      {
+        "hero": "Lycan",
+        "disadvantage": 1.98
+      },
+      {
+        "hero": "Arc Warden",
+        "disadvantage": 1.81
+      },
+      {
+        "hero": "Spectre",
+        "disadvantage": 1.73
+      },
+      {
+        "hero": "Visage",
+        "disadvantage": 1.55
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Broodmother",
+        "disadvantage": -1.72
+      },
+      {
+        "hero": "Necrophos",
+        "disadvantage": -2.31
+      },
+      {
+        "hero": "Pangolier",
+        "disadvantage": -2.65
+      },
+      {
+        "hero": "Timbersaw",
+        "disadvantage": -2.83
+      },
+      {
+        "hero": "Slark",
+        "disadvantage": -3.74
+      }
+    ]
+  },
+  "gyrocopter": {
+    "worst_matchups": [
+      {
+        "hero": "Juggernaut",
+        "disadvantage": 1.68
+      },
+      {
+        "hero": "Bristleback",
+        "disadvantage": 1.45
+      },
+      {
+        "hero": "Lifestealer",
+        "disadvantage": 1.43
+      },
+      {
+        "hero": "Huskar",
+        "disadvantage": 1.22
+      },
+      {
+        "hero": "Sniper",
+        "disadvantage": 1.1
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Shadow Shaman",
+        "disadvantage": -1.69
+      },
+      {
+        "hero": "Dark Seer",
+        "disadvantage": -1.78
+      },
+      {
+        "hero": "Lone Druid",
+        "disadvantage": -1.89
+      },
+      {
+        "hero": "Enigma",
+        "disadvantage": -2.64
+      },
+      {
+        "hero": "Beastmaster",
+        "disadvantage": -2.81
+      }
+    ]
+  },
+  "hoodwink": {
+    "worst_matchups": [
+      {
+        "hero": "Primal Beast",
+        "disadvantage": 1.73
+      },
+      {
+        "hero": "Spirit Breaker",
+        "disadvantage": 1.52
+      },
+      {
+        "hero": "Axe",
+        "disadvantage": 1.3
+      },
+      {
+        "hero": "Mars",
+        "disadvantage": 1.29
+      },
+      {
+        "hero": "Timbersaw",
+        "disadvantage": 1.27
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Elder Titan",
+        "disadvantage": -1.44
+      },
+      {
+        "hero": "Huskar",
+        "disadvantage": -1.49
+      },
+      {
+        "hero": "Shadow Fiend",
+        "disadvantage": -1.79
+      },
+      {
+        "hero": "AntiMage",
+        "disadvantage": 2.47
+      },
+      {
+        "hero": "Bristleback",
+        "disadvantage": -3.53
+      }
+    ]
+  },
+  "huskar": {
+    "worst_matchups": [
+      {
+        "hero": "Viper",
+        "disadvantage": 7.02
+      },
+      {
+        "hero": "Ancient Apparition",
+        "disadvantage": 7.01
+      },
+      {
+        "hero": "Necrophos",
+        "disadvantage": 3.8
+      },
+      {
+        "hero": "Chaos Knight",
+        "disadvantage": 3.58
+      },
+      {
+        "hero": "Phantom Assassin",
+        "disadvantage": 3.24
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Pangolier",
+        "disadvantage": -3.7
+      },
+      {
+        "hero": "Night Stalker",
+        "disadvantage": -3.75
+      },
+      {
+        "hero": "Void Spirit",
+        "disadvantage": -4.16
+      },
+      {
+        "hero": "Ember Spirit",
+        "disadvantage": -4.62
+      },
+      {
+        "hero": "AntiMage",
+        "disadvantage": 6.14
+      }
+    ]
+  },
+  "invoker": {
+    "worst_matchups": [
+      {
+        "hero": "Phantom Lancer",
+        "disadvantage": 3.03
+      },
+      {
+        "hero": "Broodmother",
+        "disadvantage": 2.57
+      },
+      {
+        "hero": "Templar Assassin",
+        "disadvantage": 2.1
+      },
+      {
+        "hero": "Phantom Assassin",
+        "disadvantage": 1.95
+      },
+      {
+        "hero": "Puck",
+        "disadvantage": 1.94
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Oracle",
+        "disadvantage": -1.37
+      },
+      {
+        "hero": "Abaddon",
+        "disadvantage": -1.69
+      },
+      {
+        "hero": "Dawnbreaker",
+        "disadvantage": -1.71
+      },
+      {
+        "hero": "Wraith King",
+        "disadvantage": -2.35
+      },
+      {
+        "hero": "Medusa",
+        "disadvantage": -4.61
+      }
+    ]
+  },
+  "io": {
+    "worst_matchups": [
+      {
+        "hero": "Underlord",
+        "disadvantage": 3.04
+      },
+      {
+        "hero": "Ancient Apparition",
+        "disadvantage": 2.64
+      },
+      {
+        "hero": "Troll Warlord",
+        "disadvantage": 2.55
+      },
+      {
+        "hero": "Windranger",
+        "disadvantage": 2.44
+      },
+      {
+        "hero": "Doom",
+        "disadvantage": 2.41
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "AntiMage",
+        "disadvantage": 2.17
+      },
+      {
+        "hero": "Lifestealer",
+        "disadvantage": -2.39
+      },
+      {
+        "hero": "Night Stalker",
+        "disadvantage": -2.5
+      },
+      {
+        "hero": "Spectre",
+        "disadvantage": -2.71
+      },
+      {
+        "hero": "Oracle",
+        "disadvantage": -2.83
+      }
+    ]
+  },
+  "jakiro": {
+    "worst_matchups": [
+      {
+        "hero": "Rubick",
+        "disadvantage": 3.69
+      },
+      {
+        "hero": "Morphling",
+        "disadvantage": 1.41
+      },
+      {
+        "hero": "Oracle",
+        "disadvantage": 1.39
+      },
+      {
+        "hero": "Legion Commander",
+        "disadvantage": 1.28
+      },
+      {
+        "hero": "Juggernaut",
+        "disadvantage": 1.18
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Wraith King",
+        "disadvantage": -1.72
+      },
+      {
+        "hero": "Arc Warden",
+        "disadvantage": -1.8
+      },
+      {
+        "hero": "Broodmother",
+        "disadvantage": -1.95
+      },
+      {
+        "hero": "Lone Druid",
+        "disadvantage": -2.3
+      },
+      {
+        "hero": "Meepo",
+        "disadvantage": -4.47
+      }
+    ]
+  },
+  "juggernaut": {
+    "worst_matchups": [
+      {
+        "hero": "Chen",
+        "disadvantage": 3.1
+      },
+      {
+        "hero": "Morphling",
+        "disadvantage": 2.99
+      },
+      {
+        "hero": "Clinkz",
+        "disadvantage": 2.93
+      },
+      {
+        "hero": "Riki",
+        "disadvantage": 2.91
+      },
+      {
+        "hero": "Natures Prophet",
+        "disadvantage": 2.83
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Bloodseeker",
+        "disadvantage": -2.2
+      },
+      {
+        "hero": "Bristleback",
+        "disadvantage": -2.64
+      },
+      {
+        "hero": "Underlord",
+        "disadvantage": -2.69
+      },
+      {
+        "hero": "Phoenix",
+        "disadvantage": -2.73
+      },
+      {
+        "hero": "Tidehunter",
+        "disadvantage": -2.78
+      }
+    ]
+  },
+  "keeper-of-the-light": {
+    "worst_matchups": [
+      {
+        "hero": "Storm Spirit",
+        "disadvantage": 2.82
+      },
+      {
+        "hero": "Naga Siren",
+        "disadvantage": 2.75
+      },
+      {
+        "hero": "Faceless Void",
+        "disadvantage": 2.71
+      },
+      {
+        "hero": "Weaver",
+        "disadvantage": 2.67
+      },
+      {
+        "hero": "Batrider",
+        "disadvantage": 2.51
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Abaddon",
+        "disadvantage": -1.69
+      },
+      {
+        "hero": "Clockwerk",
+        "disadvantage": -1.75
+      },
+      {
+        "hero": "Chen",
+        "disadvantage": -2.33
+      },
+      {
+        "hero": "Phoenix",
+        "disadvantage": -2.91
+      },
+      {
+        "hero": "Beastmaster",
+        "disadvantage": -3.4
+      }
+    ]
+  },
+  "kez": {
+    "worst_matchups": [
+      {
+        "hero": "Templar Assassin",
+        "disadvantage": 1.43
+      },
+      {
+        "hero": "Axe",
+        "disadvantage": 1.26
+      },
+      {
+        "hero": "Muerta",
+        "disadvantage": 1.17
+      },
+      {
+        "hero": "Monkey King",
+        "disadvantage": 1.15
+      },
+      {
+        "hero": "Ursa",
+        "disadvantage": 1.1
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Broodmother",
+        "disadvantage": -2.45
+      },
+      {
+        "hero": "Lifestealer",
+        "disadvantage": -2.53
+      },
+      {
+        "hero": "Lycan",
+        "disadvantage": -2.68
+      },
+      {
+        "hero": "Arc Warden",
+        "disadvantage": -2.82
+      },
+      {
+        "hero": "AntiMage",
+        "disadvantage": 3.16
+      }
+    ]
+  },
+  "kunkka": {
+    "worst_matchups": [
+      {
+        "hero": "Lifestealer",
+        "disadvantage": 2.45
+      },
+      {
+        "hero": "Juggernaut",
+        "disadvantage": 2.43
+      },
+      {
+        "hero": "Venomancer",
+        "disadvantage": 2.38
+      },
+      {
+        "hero": "Faceless Void",
+        "disadvantage": 2.25
+      },
+      {
+        "hero": "Undying",
+        "disadvantage": 2.0
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Shadow Fiend",
+        "disadvantage": -2.01
+      },
+      {
+        "hero": "Beastmaster",
+        "disadvantage": -2.13
+      },
+      {
+        "hero": "Medusa",
+        "disadvantage": -2.14
+      },
+      {
+        "hero": "Chaos Knight",
+        "disadvantage": -2.79
+      },
+      {
+        "hero": "Meepo",
+        "disadvantage": -3.56
+      }
+    ]
+  },
+  "legion-commander": {
+    "worst_matchups": [
+      {
+        "hero": "Winter Wyvern",
+        "disadvantage": 3.28
+      },
+      {
+        "hero": "Dawnbreaker",
+        "disadvantage": 3.05
+      },
+      {
+        "hero": "Omniknight",
+        "disadvantage": 2.95
+      },
+      {
+        "hero": "Monkey King",
+        "disadvantage": 2.88
+      },
+      {
+        "hero": "Chaos Knight",
+        "disadvantage": 2.74
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Bloodseeker",
+        "disadvantage": -1.66
+      },
+      {
+        "hero": "Venomancer",
+        "disadvantage": -1.79
+      },
+      {
+        "hero": "AntiMage",
+        "disadvantage": 1.85
+      },
+      {
+        "hero": "Arc Warden",
+        "disadvantage": -2.26
+      },
+      {
+        "hero": "Bristleback",
+        "disadvantage": -3.57
+      }
+    ]
+  },
+  "leshrac": {
+    "worst_matchups": [
+      {
+        "hero": "Medusa",
+        "disadvantage": 3.16
+      },
+      {
+        "hero": "Undying",
+        "disadvantage": 3.05
+      },
+      {
+        "hero": "Bristleback",
+        "disadvantage": 2.48
+      },
+      {
+        "hero": "Silencer",
+        "disadvantage": 2.29
+      },
+      {
+        "hero": "Outworld Destroyer",
+        "disadvantage": 2.15
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Phantom Lancer",
+        "disadvantage": -3.51
+      },
+      {
+        "hero": "Necrophos",
+        "disadvantage": -4.16
+      },
+      {
+        "hero": "Chen",
+        "disadvantage": -4.25
+      },
+      {
+        "hero": "Naga Siren",
+        "disadvantage": -4.87
+      },
+      {
+        "hero": "Meepo",
+        "disadvantage": -5.78
+      }
+    ]
+  },
+  "lich": {
+    "worst_matchups": [
+      {
+        "hero": "Shadow Demon",
+        "disadvantage": 2.68
+      },
+      {
+        "hero": "Pugna",
+        "disadvantage": 2.66
+      },
+      {
+        "hero": "AntiMage",
+        "disadvantage": -2.26
+      },
+      {
+        "hero": "Ringmaster",
+        "disadvantage": 2.2
+      },
+      {
+        "hero": "Bristleback",
+        "disadvantage": 2.12
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Arc Warden",
+        "disadvantage": -1.08
+      },
+      {
+        "hero": "Lone Druid",
+        "disadvantage": -1.13
+      },
+      {
+        "hero": "Wraith King",
+        "disadvantage": -1.13
+      },
+      {
+        "hero": "Necrophos",
+        "disadvantage": -1.32
+      },
+      {
+        "hero": "Spirit Breaker",
+        "disadvantage": -1.43
+      }
+    ]
+  },
+  "lifestealer": {
+    "worst_matchups": [
+      {
+        "hero": "Broodmother",
+        "disadvantage": 3.78
+      },
+      {
+        "hero": "Slardar",
+        "disadvantage": 3.51
+      },
+      {
+        "hero": "Natures Prophet",
+        "disadvantage": 3.34
+      },
+      {
+        "hero": "Clinkz",
+        "disadvantage": 3.27
+      },
+      {
+        "hero": "Enigma",
+        "disadvantage": 3.12
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Earth Spirit",
+        "disadvantage": -2.62
+      },
+      {
+        "hero": "Mars",
+        "disadvantage": -2.81
+      },
+      {
+        "hero": "Underlord",
+        "disadvantage": -2.95
+      },
+      {
+        "hero": "Nyx Assassin",
+        "disadvantage": -3.19
+      },
+      {
+        "hero": "Centaur Warrunner",
+        "disadvantage": -4.99
+      }
+    ]
+  },
+  "lina": {
+    "worst_matchups": [
+      {
+        "hero": "Templar Assassin",
+        "disadvantage": 1.95
+      },
+      {
+        "hero": "Phantom Assassin",
+        "disadvantage": 1.7
+      },
+      {
+        "hero": "Bristleback",
+        "disadvantage": 1.63
+      },
+      {
+        "hero": "Axe",
+        "disadvantage": 1.54
+      },
+      {
+        "hero": "Windranger",
+        "disadvantage": 1.47
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Phoenix",
+        "disadvantage": -2.97
+      },
+      {
+        "hero": "Necrophos",
+        "disadvantage": -3.25
+      },
+      {
+        "hero": "Naga Siren",
+        "disadvantage": -3.31
+      },
+      {
+        "hero": "Phantom Lancer",
+        "disadvantage": -3.78
+      },
+      {
+        "hero": "Meepo",
+        "disadvantage": -4.4
+      }
+    ]
+  },
+  "lion": {
+    "worst_matchups": [
+      {
+        "hero": "Beastmaster",
+        "disadvantage": 2.13
+      },
+      {
+        "hero": "Templar Assassin",
+        "disadvantage": 1.99
+      },
+      {
+        "hero": "Rubick",
+        "disadvantage": 1.96
+      },
+      {
+        "hero": "Chen",
+        "disadvantage": 1.85
+      },
+      {
+        "hero": "Razor",
+        "disadvantage": 1.77
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Troll Warlord",
+        "disadvantage": -1.56
+      },
+      {
+        "hero": "Legion Commander",
+        "disadvantage": -1.6
+      },
+      {
+        "hero": "Juggernaut",
+        "disadvantage": -1.61
+      },
+      {
+        "hero": "Abaddon",
+        "disadvantage": -1.71
+      },
+      {
+        "hero": "Medusa",
+        "disadvantage": -1.93
+      }
+    ]
+  },
+  "lone-druid": {
+    "worst_matchups": [
+      {
+        "hero": "Winter Wyvern",
+        "disadvantage": 4.82
+      },
+      {
+        "hero": "Monkey King",
+        "disadvantage": 4.17
+      },
+      {
+        "hero": "Sand King",
+        "disadvantage": 4.08
+      },
+      {
+        "hero": "Windranger",
+        "disadvantage": 3.95
+      },
+      {
+        "hero": "Elder Titan",
+        "disadvantage": 3.85
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Earth Spirit",
+        "disadvantage": -3.37
+      },
+      {
+        "hero": "Night Stalker",
+        "disadvantage": -3.71
+      },
+      {
+        "hero": "Wraith King",
+        "disadvantage": -4.32
+      },
+      {
+        "hero": "Storm Spirit",
+        "disadvantage": -4.42
+      },
+      {
+        "hero": "AntiMage",
+        "disadvantage": 4.6
+      }
+    ]
+  },
+  "luna": {
+    "worst_matchups": [
+      {
+        "hero": "Bristleback",
+        "disadvantage": 2.49
+      },
+      {
+        "hero": "Broodmother",
+        "disadvantage": 2.37
+      },
+      {
+        "hero": "Shadow Demon",
+        "disadvantage": 2.25
+      },
+      {
+        "hero": "Terrorblade",
+        "disadvantage": 2.16
+      },
+      {
+        "hero": "Dark Seer",
+        "disadvantage": 1.78
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Lone Druid",
+        "disadvantage": -1.39
+      },
+      {
+        "hero": "Riki",
+        "disadvantage": -1.76
+      },
+      {
+        "hero": "Slardar",
+        "disadvantage": -2.37
+      },
+      {
+        "hero": "Night Stalker",
+        "disadvantage": -2.54
+      },
+      {
+        "hero": "Undying",
+        "disadvantage": -2.66
+      }
+    ]
+  },
+  "lycan": {
+    "worst_matchups": [
+      {
+        "hero": "Naga Siren",
+        "disadvantage": 5.16
+      },
+      {
+        "hero": "Troll Warlord",
+        "disadvantage": 4.38
+      },
+      {
+        "hero": "Sven",
+        "disadvantage": 3.52
+      },
+      {
+        "hero": "Bristleback",
+        "disadvantage": 3.01
+      },
+      {
+        "hero": "Slardar",
+        "disadvantage": 2.93
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Ancient Apparition",
+        "disadvantage": -3.15
+      },
+      {
+        "hero": "Night Stalker",
+        "disadvantage": -3.55
+      },
+      {
+        "hero": "Skywrath Mage",
+        "disadvantage": -3.57
+      },
+      {
+        "hero": "Void Spirit",
+        "disadvantage": -3.66
+      },
+      {
+        "hero": "Chen",
+        "disadvantage": -4.29
+      }
+    ]
+  },
+  "magnus": {
+    "worst_matchups": [
+      {
+        "hero": "Puck",
+        "disadvantage": 2.0
+      },
+      {
+        "hero": "Huskar",
+        "disadvantage": 1.86
+      },
+      {
+        "hero": "Troll Warlord",
+        "disadvantage": 1.78
+      },
+      {
+        "hero": "Earthshaker",
+        "disadvantage": 1.67
+      },
+      {
+        "hero": "Winter Wyvern",
+        "disadvantage": 1.59
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Io",
+        "disadvantage": -1.73
+      },
+      {
+        "hero": "Marci",
+        "disadvantage": -1.78
+      },
+      {
+        "hero": "AntiMage",
+        "disadvantage": 1.86
+      },
+      {
+        "hero": "Naga Siren",
+        "disadvantage": -2.1
+      },
+      {
+        "hero": "Pudge",
+        "disadvantage": -2.16
+      }
+    ]
+  },
+  "marci": {
+    "worst_matchups": [
+      {
+        "hero": "Troll Warlord",
+        "disadvantage": 3.49
+      },
+      {
+        "hero": "Batrider",
+        "disadvantage": 2.62
+      },
+      {
+        "hero": "Windranger",
+        "disadvantage": 2.33
+      },
+      {
+        "hero": "Muerta",
+        "disadvantage": 2.29
+      },
+      {
+        "hero": "Winter Wyvern",
+        "disadvantage": 2.28
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Visage",
+        "disadvantage": -2.42
+      },
+      {
+        "hero": "Pudge",
+        "disadvantage": -2.7
+      },
+      {
+        "hero": "Oracle",
+        "disadvantage": -2.73
+      },
+      {
+        "hero": "Abaddon",
+        "disadvantage": -2.75
+      },
+      {
+        "hero": "Night Stalker",
+        "disadvantage": -2.76
+      }
+    ]
+  },
+  "mars": {
+    "worst_matchups": [
+      {
+        "hero": "AntiMage",
+        "disadvantage": -3.08
+      },
+      {
+        "hero": "Lifestealer",
+        "disadvantage": 2.8
+      },
+      {
+        "hero": "Elder Titan",
+        "disadvantage": 2.68
+      },
+      {
+        "hero": "Phantom Lancer",
+        "disadvantage": 2.64
+      },
+      {
+        "hero": "Faceless Void",
+        "disadvantage": 2.3
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Shadow Fiend",
+        "disadvantage": -1.85
+      },
+      {
+        "hero": "Sniper",
+        "disadvantage": -2.2
+      },
+      {
+        "hero": "Windranger",
+        "disadvantage": -2.27
+      },
+      {
+        "hero": "Slark",
+        "disadvantage": -3.45
+      },
+      {
+        "hero": "Drow Ranger",
+        "disadvantage": -3.55
+      }
+    ]
+  },
+  "medusa": {
+    "worst_matchups": [
+      {
+        "hero": "AntiMage",
+        "disadvantage": -10.25
+      },
+      {
+        "hero": "Dark Seer",
+        "disadvantage": 6.24
+      },
+      {
+        "hero": "Monkey King",
+        "disadvantage": 4.79
+      },
+      {
+        "hero": "Slark",
+        "disadvantage": 4.52
+      },
+      {
+        "hero": "Invoker",
+        "disadvantage": 4.51
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Beastmaster",
+        "disadvantage": -3.54
+      },
+      {
+        "hero": "Queen of Pain",
+        "disadvantage": -3.59
+      },
+      {
+        "hero": "Witch Doctor",
+        "disadvantage": -3.66
+      },
+      {
+        "hero": "Undying",
+        "disadvantage": -3.69
+      },
+      {
+        "hero": "Bloodseeker",
+        "disadvantage": -4.82
+      }
+    ]
+  },
+  "meepo": {
+    "worst_matchups": [
+      {
+        "hero": "Elder Titan",
+        "disadvantage": 11.22
+      },
+      {
+        "hero": "Earthshaker",
+        "disadvantage": 8.62
+      },
+      {
+        "hero": "Troll Warlord",
+        "disadvantage": 7.86
+      },
+      {
+        "hero": "Winter Wyvern",
+        "disadvantage": 6.25
+      },
+      {
+        "hero": "Leshrac",
+        "disadvantage": 5.82
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Chen",
+        "disadvantage": -4.04
+      },
+      {
+        "hero": "Spectre",
+        "disadvantage": -5.25
+      },
+      {
+        "hero": "Void Spirit",
+        "disadvantage": -5.37
+      },
+      {
+        "hero": "Arc Warden",
+        "disadvantage": -6.08
+      },
+      {
+        "hero": "AntiMage",
+        "disadvantage": 8.23
+      }
+    ]
+  },
+  "mirana": {
+    "worst_matchups": [
+      {
+        "hero": "Mars",
+        "disadvantage": 1.8
+      },
+      {
+        "hero": "Lone Druid",
+        "disadvantage": 1.63
+      },
+      {
+        "hero": "Meepo",
+        "disadvantage": 1.62
+      },
+      {
+        "hero": "Axe",
+        "disadvantage": 1.59
+      },
+      {
+        "hero": "Spectre",
+        "disadvantage": 1.54
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Death Prophet",
+        "disadvantage": -1.85
+      },
+      {
+        "hero": "Keeper of the Light",
+        "disadvantage": -1.94
+      },
+      {
+        "hero": "Lycan",
+        "disadvantage": -2.31
+      },
+      {
+        "hero": "Elder Titan",
+        "disadvantage": -2.34
+      },
+      {
+        "hero": "Brewmaster",
+        "disadvantage": -2.41
+      }
+    ]
+  },
+  "monkey-king": {
+    "worst_matchups": [
+      {
+        "hero": "Muerta",
+        "disadvantage": 2.65
+      },
+      {
+        "hero": "Leshrac",
+        "disadvantage": 2.46
+      },
+      {
+        "hero": "Batrider",
+        "disadvantage": 2.41
+      },
+      {
+        "hero": "Zeus",
+        "disadvantage": 2.32
+      },
+      {
+        "hero": "Techies",
+        "disadvantage": 2.29
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Ember Spirit",
+        "disadvantage": -3.86
+      },
+      {
+        "hero": "Lone Druid",
+        "disadvantage": -4.26
+      },
+      {
+        "hero": "Medusa",
+        "disadvantage": -4.32
+      },
+      {
+        "hero": "Meepo",
+        "disadvantage": -4.59
+      },
+      {
+        "hero": "Pangolier",
+        "disadvantage": -4.65
+      }
+    ]
+  },
+  "morphling": {
+    "worst_matchups": [
+      {
+        "hero": "Doom",
+        "disadvantage": 3.38
+      },
+      {
+        "hero": "Nyx Assassin",
+        "disadvantage": 3.14
+      },
+      {
+        "hero": "Meepo",
+        "disadvantage": 2.64
+      },
+      {
+        "hero": "Axe",
+        "disadvantage": 2.55
+      },
+      {
+        "hero": "Rubick",
+        "disadvantage": 2.29
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Viper",
+        "disadvantage": -2.77
+      },
+      {
+        "hero": "Juggernaut",
+        "disadvantage": -2.86
+      },
+      {
+        "hero": "Sniper",
+        "disadvantage": -2.88
+      },
+      {
+        "hero": "Clinkz",
+        "disadvantage": -3.19
+      },
+      {
+        "hero": "Razor",
+        "disadvantage": -3.23
+      }
+    ]
+  },
+  "muerta": {
+    "worst_matchups": [
+      {
+        "hero": "Centaur Warrunner",
+        "disadvantage": 3.09
+      },
+      {
+        "hero": "Spectre",
+        "disadvantage": 2.77
+      },
+      {
+        "hero": "Enchantress",
+        "disadvantage": 2.16
+      },
+      {
+        "hero": "Axe",
+        "disadvantage": 1.99
+      },
+      {
+        "hero": "Medusa",
+        "disadvantage": 1.81
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Slardar",
+        "disadvantage": -2.19
+      },
+      {
+        "hero": "Marci",
+        "disadvantage": -2.3
+      },
+      {
+        "hero": "Troll Warlord",
+        "disadvantage": -2.34
+      },
+      {
+        "hero": "Monkey King",
+        "disadvantage": -2.86
+      },
+      {
+        "hero": "Necrophos",
+        "disadvantage": -3.75
+      }
+    ]
+  },
+  "naga-siren": {
+    "worst_matchups": [
+      {
+        "hero": "Leshrac",
+        "disadvantage": 4.97
+      },
+      {
+        "hero": "Warlock",
+        "disadvantage": 4.9
+      },
+      {
+        "hero": "Sand King",
+        "disadvantage": 4.83
+      },
+      {
+        "hero": "Underlord",
+        "disadvantage": 4.05
+      },
+      {
+        "hero": "Earthshaker",
+        "disadvantage": 4.02
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Broodmother",
+        "disadvantage": -4.86
+      },
+      {
+        "hero": "Terrorblade",
+        "disadvantage": -5.11
+      },
+      {
+        "hero": "Lycan",
+        "disadvantage": -5.17
+      },
+      {
+        "hero": "Visage",
+        "disadvantage": -5.46
+      },
+      {
+        "hero": "Night Stalker",
+        "disadvantage": -5.61
+      }
+    ]
+  },
+  "natures-prophet": {
+    "worst_matchups": [
+      {
+        "hero": "Spectre",
+        "disadvantage": 3.0
+      },
+      {
+        "hero": "Phantom Assassin",
+        "disadvantage": 1.75
+      },
+      {
+        "hero": "Kez",
+        "disadvantage": 1.55
+      },
+      {
+        "hero": "Morphling",
+        "disadvantage": 1.44
+      },
+      {
+        "hero": "Arc Warden",
+        "disadvantage": 1.26
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Puck",
+        "disadvantage": -1.88
+      },
+      {
+        "hero": "Juggernaut",
+        "disadvantage": -2.49
+      },
+      {
+        "hero": "Elder Titan",
+        "disadvantage": -3.12
+      },
+      {
+        "hero": "Bloodseeker",
+        "disadvantage": -3.22
+      },
+      {
+        "hero": "Lifestealer",
+        "disadvantage": -3.39
+      }
+    ]
+  },
+  "necrophos": {
+    "worst_matchups": [
+      {
+        "hero": "Ancient Apparition",
+        "disadvantage": 4.57
+      },
+      {
+        "hero": "Leshrac",
+        "disadvantage": 4.15
+      },
+      {
+        "hero": "Doom",
+        "disadvantage": 4.01
+      },
+      {
+        "hero": "Muerta",
+        "disadvantage": 3.87
+      },
+      {
+        "hero": "Skywrath Mage",
+        "disadvantage": 3.78
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Axe",
+        "disadvantage": -3.13
+      },
+      {
+        "hero": "Huskar",
+        "disadvantage": -3.18
+      },
+      {
+        "hero": "Wraith King",
+        "disadvantage": -3.2
+      },
+      {
+        "hero": "Tiny",
+        "disadvantage": -3.22
+      },
+      {
+        "hero": "Phantom Lancer",
+        "disadvantage": -3.99
+      }
+    ]
+  },
+  "night-stalker": {
+    "worst_matchups": [
+      {
+        "hero": "Naga Siren",
+        "disadvantage": 5.66
+      },
+      {
+        "hero": "Broodmother",
+        "disadvantage": 3.8
+      },
+      {
+        "hero": "Arc Warden",
+        "disadvantage": 3.78
+      },
+      {
+        "hero": "Huskar",
+        "disadvantage": 3.76
+      },
+      {
+        "hero": "Lone Druid",
+        "disadvantage": 3.6
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Silencer",
+        "disadvantage": -2.31
+      },
+      {
+        "hero": "Void Spirit",
+        "disadvantage": -2.62
+      },
+      {
+        "hero": "Slark",
+        "disadvantage": -2.84
+      },
+      {
+        "hero": "Juggernaut",
+        "disadvantage": -3.04
+      },
+      {
+        "hero": "Puck",
+        "disadvantage": -4.9
+      }
+    ]
+  },
+  "nyx-assassin": {
+    "worst_matchups": [
+      {
+        "hero": "Lifestealer",
+        "disadvantage": 3.04
+      },
+      {
+        "hero": "Chaos Knight",
+        "disadvantage": 2.73
+      },
+      {
+        "hero": "Meepo",
+        "disadvantage": 2.53
+      },
+      {
+        "hero": "Slardar",
+        "disadvantage": 2.32
+      },
+      {
+        "hero": "Ember Spirit",
+        "disadvantage": 2.28
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Warlock",
+        "disadvantage": -2.02
+      },
+      {
+        "hero": "Puck",
+        "disadvantage": -2.06
+      },
+      {
+        "hero": "Outworld Destroyer",
+        "disadvantage": -2.13
+      },
+      {
+        "hero": "Sniper",
+        "disadvantage": -2.3
+      },
+      {
+        "hero": "Morphling",
+        "disadvantage": -3.03
+      }
+    ]
+  },
+  "ogre-magi": {
+    "worst_matchups": [
+      {
+        "hero": "Phantom Lancer",
+        "disadvantage": 4.55
+      },
+      {
+        "hero": "Naga Siren",
+        "disadvantage": 3.29
+      },
+      {
+        "hero": "Chaos Knight",
+        "disadvantage": 3.24
+      },
+      {
+        "hero": "AntiMage",
+        "disadvantage": -2.78
+      },
+      {
+        "hero": "Meepo",
+        "disadvantage": 2.68
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Phantom Assassin",
+        "disadvantage": -1.32
+      },
+      {
+        "hero": "Silencer",
+        "disadvantage": -1.35
+      },
+      {
+        "hero": "Troll Warlord",
+        "disadvantage": -1.42
+      },
+      {
+        "hero": "Ursa",
+        "disadvantage": -1.69
+      },
+      {
+        "hero": "Night Stalker",
+        "disadvantage": -1.84
+      }
+    ]
+  },
+  "omniknight": {
+    "worst_matchups": [
+      {
+        "hero": "Doom",
+        "disadvantage": 3.52
+      },
+      {
+        "hero": "Shadow Demon",
+        "disadvantage": 3.48
+      },
+      {
+        "hero": "Undying",
+        "disadvantage": 2.45
+      },
+      {
+        "hero": "Faceless Void",
+        "disadvantage": 2.16
+      },
+      {
+        "hero": "Earthshaker",
+        "disadvantage": 2.09
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Clockwerk",
+        "disadvantage": -2.14
+      },
+      {
+        "hero": "Void Spirit",
+        "disadvantage": -2.26
+      },
+      {
+        "hero": "Spectre",
+        "disadvantage": -2.53
+      },
+      {
+        "hero": "Tidehunter",
+        "disadvantage": -2.6
+      },
+      {
+        "hero": "Legion Commander",
+        "disadvantage": -2.86
+      }
+    ]
+  },
+  "oracle": {
+    "worst_matchups": [
+      {
+        "hero": "Shadow Demon",
+        "disadvantage": 3.18
+      },
+      {
+        "hero": "Lone Druid",
+        "disadvantage": 3.11
+      },
+      {
+        "hero": "Lycan",
+        "disadvantage": 3.04
+      },
+      {
+        "hero": "Chaos Knight",
+        "disadvantage": 2.95
+      },
+      {
+        "hero": "Razor",
+        "disadvantage": 2.83
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Sand King",
+        "disadvantage": -2.25
+      },
+      {
+        "hero": "Storm Spirit",
+        "disadvantage": -2.62
+      },
+      {
+        "hero": "Ember Spirit",
+        "disadvantage": -2.7
+      },
+      {
+        "hero": "Legion Commander",
+        "disadvantage": -2.8
+      },
+      {
+        "hero": "Necrophos",
+        "disadvantage": -3.55
+      }
+    ]
+  },
+  "outworld-destroyer": {
+    "worst_matchups": [
+      {
+        "hero": "Arc Warden",
+        "disadvantage": 3.71
+      },
+      {
+        "hero": "Broodmother",
+        "disadvantage": 3.63
+      },
+      {
+        "hero": "Phantom Lancer",
+        "disadvantage": 3.51
+      },
+      {
+        "hero": "Templar Assassin",
+        "disadvantage": 3.17
+      },
+      {
+        "hero": "Medusa",
+        "disadvantage": 3.06
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Slark",
+        "disadvantage": -2.58
+      },
+      {
+        "hero": "Abaddon",
+        "disadvantage": -2.87
+      },
+      {
+        "hero": "Troll Warlord",
+        "disadvantage": -3.11
+      },
+      {
+        "hero": "Axe",
+        "disadvantage": -3.6
+      },
+      {
+        "hero": "Timbersaw",
+        "disadvantage": -4.16
+      }
+    ]
+  },
+  "pangolier": {
+    "worst_matchups": [
+      {
+        "hero": "Monkey King",
+        "disadvantage": 4.71
+      },
+      {
+        "hero": "Huskar",
+        "disadvantage": 3.75
+      },
+      {
+        "hero": "Bloodseeker",
+        "disadvantage": 3.52
+      },
+      {
+        "hero": "Clinkz",
+        "disadvantage": 2.71
+      },
+      {
+        "hero": "Chen",
+        "disadvantage": 2.68
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Arc Warden",
+        "disadvantage": -2.04
+      },
+      {
+        "hero": "Visage",
+        "disadvantage": -2.06
+      },
+      {
+        "hero": "Pudge",
+        "disadvantage": -2.17
+      },
+      {
+        "hero": "Outworld Destroyer",
+        "disadvantage": -2.33
+      },
+      {
+        "hero": "Medusa",
+        "disadvantage": -3.74
+      }
+    ]
+  },
+  "phantom-assassin": {
+    "worst_matchups": [
+      {
+        "hero": "Axe",
+        "disadvantage": 3.32
+      },
+      {
+        "hero": "Primal Beast",
+        "disadvantage": 2.43
+      },
+      {
+        "hero": "Timbersaw",
+        "disadvantage": 2.08
+      },
+      {
+        "hero": "Phoenix",
+        "disadvantage": 2.08
+      },
+      {
+        "hero": "Pudge",
+        "disadvantage": 2.02
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Huskar",
+        "disadvantage": -2.48
+      },
+      {
+        "hero": "Enchantress",
+        "disadvantage": -2.79
+      },
+      {
+        "hero": "Lone Druid",
+        "disadvantage": -3.16
+      },
+      {
+        "hero": "Elder Titan",
+        "disadvantage": -3.39
+      },
+      {
+        "hero": "AntiMage",
+        "disadvantage": 4.54
+      }
+    ]
+  },
+  "phantom-lancer": {
+    "worst_matchups": [
+      {
+        "hero": "Sand King",
+        "disadvantage": 6.85
+      },
+      {
+        "hero": "Warlock",
+        "disadvantage": 6.63
+      },
+      {
+        "hero": "Timbersaw",
+        "disadvantage": 5.02
+      },
+      {
+        "hero": "Necrophos",
+        "disadvantage": 4.97
+      },
+      {
+        "hero": "Crystal Maiden",
+        "disadvantage": 4.35
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Ogre Magi",
+        "disadvantage": -4.56
+      },
+      {
+        "hero": "Terrorblade",
+        "disadvantage": -4.57
+      },
+      {
+        "hero": "Visage",
+        "disadvantage": -4.74
+      },
+      {
+        "hero": "Templar Assassin",
+        "disadvantage": -5.26
+      },
+      {
+        "hero": "Viper",
+        "disadvantage": -5.55
+      }
+    ]
+  },
+  "phoenix": {
+    "worst_matchups": [
+      {
+        "hero": "Juggernaut",
+        "disadvantage": 3.28
+      },
+      {
+        "hero": "Lina",
+        "disadvantage": 2.92
+      },
+      {
+        "hero": "Keeper of the Light",
+        "disadvantage": 2.89
+      },
+      {
+        "hero": "Bloodseeker",
+        "disadvantage": 2.47
+      },
+      {
+        "hero": "Huskar",
+        "disadvantage": 2.45
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Sand King",
+        "disadvantage": -2.17
+      },
+      {
+        "hero": "Chaos Knight",
+        "disadvantage": -2.25
+      },
+      {
+        "hero": "Wraith King",
+        "disadvantage": -2.31
+      },
+      {
+        "hero": "Phantom Assassin",
+        "disadvantage": -2.37
+      },
+      {
+        "hero": "Treant Protector",
+        "disadvantage": -2.74
+      }
+    ]
+  },
+  "primal-beast": {
+    "worst_matchups": [
+      {
+        "hero": "Faceless Void",
+        "disadvantage": 2.5
+      },
+      {
+        "hero": "Juggernaut",
+        "disadvantage": 2.37
+      },
+      {
+        "hero": "Outworld Destroyer",
+        "disadvantage": 2.25
+      },
+      {
+        "hero": "Witch Doctor",
+        "disadvantage": 2.2
+      },
+      {
+        "hero": "AntiMage",
+        "disadvantage": -2.18
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Razor",
+        "disadvantage": -2.32
+      },
+      {
+        "hero": "Phantom Assassin",
+        "disadvantage": -2.45
+      },
+      {
+        "hero": "Axe",
+        "disadvantage": -2.87
+      },
+      {
+        "hero": "Bristleback",
+        "disadvantage": -3.09
+      },
+      {
+        "hero": "Sniper",
+        "disadvantage": -3.29
+      }
+    ]
+  },
+  "puck": {
+    "worst_matchups": [
+      {
+        "hero": "Night Stalker",
+        "disadvantage": 4.79
+      },
+      {
+        "hero": "Broodmother",
+        "disadvantage": 3.36
+      },
+      {
+        "hero": "Riki",
+        "disadvantage": 3.24
+      },
+      {
+        "hero": "Lone Druid",
+        "disadvantage": 2.79
+      },
+      {
+        "hero": "Tiny",
+        "disadvantage": 2.31
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Invoker",
+        "disadvantage": -2.23
+      },
+      {
+        "hero": "Slark",
+        "disadvantage": -2.26
+      },
+      {
+        "hero": "Queen of Pain",
+        "disadvantage": -2.39
+      },
+      {
+        "hero": "Storm Spirit",
+        "disadvantage": -2.43
+      },
+      {
+        "hero": "Phantom Lancer",
+        "disadvantage": -3.79
+      }
+    ]
+  },
+  "pudge": {
+    "worst_matchups": [
+      {
+        "hero": "Ursa",
+        "disadvantage": 2.73
+      },
+      {
+        "hero": "Batrider",
+        "disadvantage": 2.68
+      },
+      {
+        "hero": "Chen",
+        "disadvantage": 2.54
+      },
+      {
+        "hero": "Marci",
+        "disadvantage": 2.48
+      },
+      {
+        "hero": "Tusk",
+        "disadvantage": 2.35
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Legion Commander",
+        "disadvantage": -1.81
+      },
+      {
+        "hero": "Pugna",
+        "disadvantage": -1.92
+      },
+      {
+        "hero": "Necrophos",
+        "disadvantage": -2.15
+      },
+      {
+        "hero": "Drow Ranger",
+        "disadvantage": -2.26
+      },
+      {
+        "hero": "Sniper",
+        "disadvantage": -2.5
+      }
+    ]
+  },
+  "pugna": {
+    "worst_matchups": [
+      {
+        "hero": "Huskar",
+        "disadvantage": 3.33
+      },
+      {
+        "hero": "Pudge",
+        "disadvantage": 3.25
+      },
+      {
+        "hero": "AntiMage",
+        "disadvantage": -2.06
+      },
+      {
+        "hero": "Sven",
+        "disadvantage": 2.02
+      },
+      {
+        "hero": "Silencer",
+        "disadvantage": 1.85
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Lich",
+        "disadvantage": -2.15
+      },
+      {
+        "hero": "Slark",
+        "disadvantage": -2.44
+      },
+      {
+        "hero": "Necrophos",
+        "disadvantage": -3.11
+      },
+      {
+        "hero": "Storm Spirit",
+        "disadvantage": -3.33
+      },
+      {
+        "hero": "Timbersaw",
+        "disadvantage": -3.6
+      }
+    ]
+  },
+  "queen-of-pain": {
+    "worst_matchups": [
+      {
+        "hero": "Ember Spirit",
+        "disadvantage": 4.14
+      },
+      {
+        "hero": "Medusa",
+        "disadvantage": 3.64
+      },
+      {
+        "hero": "Meepo",
+        "disadvantage": 2.94
+      },
+      {
+        "hero": "Huskar",
+        "disadvantage": 2.55
+      },
+      {
+        "hero": "Puck",
+        "disadvantage": 2.27
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Mars",
+        "disadvantage": -1.69
+      },
+      {
+        "hero": "Sand King",
+        "disadvantage": -1.77
+      },
+      {
+        "hero": "Clockwerk",
+        "disadvantage": -1.91
+      },
+      {
+        "hero": "Timbersaw",
+        "disadvantage": -2.29
+      },
+      {
+        "hero": "Razor",
+        "disadvantage": -3.27
+      }
+    ]
+  },
+  "razor": {
+    "worst_matchups": [
+      {
+        "hero": "Queen of Pain",
+        "disadvantage": 3.5
+      },
+      {
+        "hero": "Morphling",
+        "disadvantage": 3.22
+      },
+      {
+        "hero": "AntiMage",
+        "disadvantage": -3.11
+      },
+      {
+        "hero": "Weaver",
+        "disadvantage": 2.39
+      },
+      {
+        "hero": "Primal Beast",
+        "disadvantage": 2.31
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Lone Druid",
+        "disadvantage": -2.55
+      },
+      {
+        "hero": "Oracle",
+        "disadvantage": -2.83
+      },
+      {
+        "hero": "Lifestealer",
+        "disadvantage": -2.97
+      },
+      {
+        "hero": "Tidehunter",
+        "disadvantage": -3.43
+      },
+      {
+        "hero": "Troll Warlord",
+        "disadvantage": -3.96
+      }
+    ]
+  },
+  "riki": {
+    "worst_matchups": [
+      {
+        "hero": "Bristleback",
+        "disadvantage": 4.72
+      },
+      {
+        "hero": "Underlord",
+        "disadvantage": 3.26
+      },
+      {
+        "hero": "Spectre",
+        "disadvantage": 3.0
+      },
+      {
+        "hero": "Naga Siren",
+        "disadvantage": 2.97
+      },
+      {
+        "hero": "Tiny",
+        "disadvantage": 2.3
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Shadow Demon",
+        "disadvantage": -2.57
+      },
+      {
+        "hero": "Slark",
+        "disadvantage": -2.7
+      },
+      {
+        "hero": "Juggernaut",
+        "disadvantage": -3.24
+      },
+      {
+        "hero": "Puck",
+        "disadvantage": -3.34
+      },
+      {
+        "hero": "Storm Spirit",
+        "disadvantage": -3.88
+      }
+    ]
+  },
+  "ringmaster": {
+    "worst_matchups": [
+      {
+        "hero": "Elder Titan",
+        "disadvantage": 1.94
+      },
+      {
+        "hero": "Phantom Assassin",
+        "disadvantage": 1.58
+      },
+      {
+        "hero": "Broodmother",
+        "disadvantage": 1.52
+      },
+      {
+        "hero": "Keeper of the Light",
+        "disadvantage": 1.43
+      },
+      {
+        "hero": "Lycan",
+        "disadvantage": 1.43
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Chaos Knight",
+        "disadvantage": -1.43
+      },
+      {
+        "hero": "Legion Commander",
+        "disadvantage": -1.56
+      },
+      {
+        "hero": "Troll Warlord",
+        "disadvantage": -1.86
+      },
+      {
+        "hero": "Slark",
+        "disadvantage": -2.2
+      },
+      {
+        "hero": "Meepo",
+        "disadvantage": -2.38
+      }
+    ]
+  },
+  "rubick": {
+    "worst_matchups": [
+      {
+        "hero": "Templar Assassin",
+        "disadvantage": 2.03
+      },
+      {
+        "hero": "Batrider",
+        "disadvantage": 1.84
+      },
+      {
+        "hero": "Ember Spirit",
+        "disadvantage": 1.57
+      },
+      {
+        "hero": "Ursa",
+        "disadvantage": 1.49
+      },
+      {
+        "hero": "Earth Spirit",
+        "disadvantage": 1.27
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Crystal Maiden",
+        "disadvantage": -2.44
+      },
+      {
+        "hero": "Outworld Destroyer",
+        "disadvantage": -2.52
+      },
+      {
+        "hero": "Jakiro",
+        "disadvantage": -3.69
+      },
+      {
+        "hero": "Enigma",
+        "disadvantage": -3.99
+      },
+      {
+        "hero": "Underlord",
+        "disadvantage": -6.11
+      }
+    ]
+  },
+  "sand-king": {
+    "worst_matchups": [
+      {
+        "hero": "Zeus",
+        "disadvantage": 3.35
+      },
+      {
+        "hero": "Faceless Void",
+        "disadvantage": 2.35
+      },
+      {
+        "hero": "Juggernaut",
+        "disadvantage": 2.31
+      },
+      {
+        "hero": "Bristleback",
+        "disadvantage": 2.27
+      },
+      {
+        "hero": "Ember Spirit",
+        "disadvantage": 2.19
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Winter Wyvern",
+        "disadvantage": -2.76
+      },
+      {
+        "hero": "Lone Druid",
+        "disadvantage": -3.76
+      },
+      {
+        "hero": "Chaos Knight",
+        "disadvantage": -3.85
+      },
+      {
+        "hero": "Naga Siren",
+        "disadvantage": -4.13
+      },
+      {
+        "hero": "Phantom Lancer",
+        "disadvantage": -6.32
+      }
+    ]
+  },
+  "shadow-demon": {
+    "worst_matchups": [
+      {
+        "hero": "Chaos Knight",
+        "disadvantage": 3.6
+      },
+      {
+        "hero": "AntiMage",
+        "disadvantage": -2.69
+      },
+      {
+        "hero": "Riki",
+        "disadvantage": 2.64
+      },
+      {
+        "hero": "Phantom Lancer",
+        "disadvantage": 2.63
+      },
+      {
+        "hero": "Meepo",
+        "disadvantage": 2.12
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Luna",
+        "disadvantage": -2.21
+      },
+      {
+        "hero": "Abaddon",
+        "disadvantage": -2.61
+      },
+      {
+        "hero": "Oracle",
+        "disadvantage": -3.18
+      },
+      {
+        "hero": "Omniknight",
+        "disadvantage": -3.42
+      },
+      {
+        "hero": "Medusa",
+        "disadvantage": -3.68
+      }
+    ]
+  },
+  "shadow-fiend": {
+    "worst_matchups": [
+      {
+        "hero": "Terrorblade",
+        "disadvantage": 3.67
+      },
+      {
+        "hero": "Templar Assassin",
+        "disadvantage": 2.93
+      },
+      {
+        "hero": "Phantom Lancer",
+        "disadvantage": 2.87
+      },
+      {
+        "hero": "Windranger",
+        "disadvantage": 2.67
+      },
+      {
+        "hero": "Batrider",
+        "disadvantage": 2.57
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Legion Commander",
+        "disadvantage": -1.93
+      },
+      {
+        "hero": "Oracle",
+        "disadvantage": -2.17
+      },
+      {
+        "hero": "Warlock",
+        "disadvantage": -2.59
+      },
+      {
+        "hero": "Abaddon",
+        "disadvantage": -2.75
+      },
+      {
+        "hero": "Meepo",
+        "disadvantage": -3.3
+      }
+    ]
+  },
+  "shadow-shaman": {
+    "worst_matchups": [
+      {
+        "hero": "Phantom Lancer",
+        "disadvantage": 3.92
+      },
+      {
+        "hero": "Naga Siren",
+        "disadvantage": 2.83
+      },
+      {
+        "hero": "Silencer",
+        "disadvantage": 2.74
+      },
+      {
+        "hero": "Dark Seer",
+        "disadvantage": 2.39
+      },
+      {
+        "hero": "Meepo",
+        "disadvantage": 2.27
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Outworld Destroyer",
+        "disadvantage": -1.39
+      },
+      {
+        "hero": "Storm Spirit",
+        "disadvantage": -1.42
+      },
+      {
+        "hero": "Slardar",
+        "disadvantage": -1.76
+      },
+      {
+        "hero": "Bounty Hunter",
+        "disadvantage": -2.23
+      },
+      {
+        "hero": "Ursa",
+        "disadvantage": -2.46
+      }
+    ]
+  },
+  "silencer": {
+    "worst_matchups": [
+      {
+        "hero": "Chen",
+        "disadvantage": 4.39
+      },
+      {
+        "hero": "Lycan",
+        "disadvantage": 4.22
+      },
+      {
+        "hero": "Broodmother",
+        "disadvantage": 2.81
+      },
+      {
+        "hero": "Arc Warden",
+        "disadvantage": 2.55
+      },
+      {
+        "hero": "Tidehunter",
+        "disadvantage": 2.55
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Storm Spirit",
+        "disadvantage": -2.1
+      },
+      {
+        "hero": "Dawnbreaker",
+        "disadvantage": -2.44
+      },
+      {
+        "hero": "Necrophos",
+        "disadvantage": -2.52
+      },
+      {
+        "hero": "Shadow Shaman",
+        "disadvantage": -2.82
+      },
+      {
+        "hero": "Timbersaw",
+        "disadvantage": -3.82
+      }
+    ]
+  },
+  "skywrath-mage": {
+    "worst_matchups": [
+      {
+        "hero": "Lycan",
+        "disadvantage": 3.36
+      },
+      {
+        "hero": "Medusa",
+        "disadvantage": 3.31
+      },
+      {
+        "hero": "Templar Assassin",
+        "disadvantage": 2.69
+      },
+      {
+        "hero": "Chaos Knight",
+        "disadvantage": 2.12
+      },
+      {
+        "hero": "Abaddon",
+        "disadvantage": 2.12
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Leshrac",
+        "disadvantage": -1.71
+      },
+      {
+        "hero": "Phoenix",
+        "disadvantage": -1.83
+      },
+      {
+        "hero": "Juggernaut",
+        "disadvantage": -2.0
+      },
+      {
+        "hero": "Timbersaw",
+        "disadvantage": -2.15
+      },
+      {
+        "hero": "Necrophos",
+        "disadvantage": -3.81
+      }
+    ]
+  },
+  "slardar": {
+    "worst_matchups": [
+      {
+        "hero": "Luna",
+        "disadvantage": 2.9
+      },
+      {
+        "hero": "Terrorblade",
+        "disadvantage": 2.87
+      },
+      {
+        "hero": "Troll Warlord",
+        "disadvantage": 2.39
+      },
+      {
+        "hero": "Medusa",
+        "disadvantage": 2.32
+      },
+      {
+        "hero": "Shadow Shaman",
+        "disadvantage": 2.22
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Clinkz",
+        "disadvantage": -2.23
+      },
+      {
+        "hero": "Nyx Assassin",
+        "disadvantage": -2.35
+      },
+      {
+        "hero": "Lycan",
+        "disadvantage": -2.85
+      },
+      {
+        "hero": "Lifestealer",
+        "disadvantage": -3.51
+      },
+      {
+        "hero": "AntiMage",
+        "disadvantage": 3.65
+      }
+    ]
+  },
+  "slark": {
+    "worst_matchups": [
+      {
+        "hero": "Disruptor",
+        "disadvantage": 4.39
+      },
+      {
+        "hero": "Grimstroke",
+        "disadvantage": 3.59
+      },
+      {
+        "hero": "Mars",
+        "disadvantage": 3.39
+      },
+      {
+        "hero": "Techies",
+        "disadvantage": 3.11
+      },
+      {
+        "hero": "Leshrac",
+        "disadvantage": 3.06
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Wraith King",
+        "disadvantage": -2.92
+      },
+      {
+        "hero": "Troll Warlord",
+        "disadvantage": -3.19
+      },
+      {
+        "hero": "Ember Spirit",
+        "disadvantage": -3.64
+      },
+      {
+        "hero": "Medusa",
+        "disadvantage": -4.44
+      },
+      {
+        "hero": "Bristleback",
+        "disadvantage": -4.62
+      }
+    ]
+  },
+  "snapfire": {
+    "worst_matchups": [
+      {
+        "hero": "Sven",
+        "disadvantage": 2.2
+      },
+      {
+        "hero": "Faceless Void",
+        "disadvantage": 1.55
+      },
+      {
+        "hero": "Weaver",
+        "disadvantage": 1.42
+      },
+      {
+        "hero": "Bristleback",
+        "disadvantage": 1.19
+      },
+      {
+        "hero": "Lifestealer",
+        "disadvantage": 1.07
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Warlock",
+        "disadvantage": -1.47
+      },
+      {
+        "hero": "Muerta",
+        "disadvantage": -1.66
+      },
+      {
+        "hero": "Beastmaster",
+        "disadvantage": -1.88
+      },
+      {
+        "hero": "Arc Warden",
+        "disadvantage": -2.08
+      },
+      {
+        "hero": "Meepo",
+        "disadvantage": -2.19
+      }
+    ]
+  },
+  "sniper": {
+    "worst_matchups": [
+      {
+        "hero": "Primal Beast",
+        "disadvantage": 2.83
+      },
+      {
+        "hero": "Pudge",
+        "disadvantage": 2.8
+      },
+      {
+        "hero": "Spectre",
+        "disadvantage": 2.77
+      },
+      {
+        "hero": "Morphling",
+        "disadvantage": 2.68
+      },
+      {
+        "hero": "Earth Spirit",
+        "disadvantage": 2.63
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Enigma",
+        "disadvantage": -2.18
+      },
+      {
+        "hero": "Shadow Fiend",
+        "disadvantage": -2.3
+      },
+      {
+        "hero": "Silencer",
+        "disadvantage": -2.33
+      },
+      {
+        "hero": "Necrophos",
+        "disadvantage": -2.39
+      },
+      {
+        "hero": "Medusa",
+        "disadvantage": -4.05
+      }
+    ]
+  },
+  "spectre": {
+    "worst_matchups": [
+      {
+        "hero": "Meepo",
+        "disadvantage": 5.07
+      },
+      {
+        "hero": "Abaddon",
+        "disadvantage": 4.56
+      },
+      {
+        "hero": "Undying",
+        "disadvantage": 3.79
+      },
+      {
+        "hero": "Beastmaster",
+        "disadvantage": 3.37
+      },
+      {
+        "hero": "Ember Spirit",
+        "disadvantage": 3.35
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Natures Prophet",
+        "disadvantage": -2.71
+      },
+      {
+        "hero": "Drow Ranger",
+        "disadvantage": -2.77
+      },
+      {
+        "hero": "Riki",
+        "disadvantage": -2.8
+      },
+      {
+        "hero": "Clinkz",
+        "disadvantage": -3.08
+      },
+      {
+        "hero": "Sniper",
+        "disadvantage": -3.82
+      }
+    ]
+  },
+  "spirit-breaker": {
+    "worst_matchups": [
+      {
+        "hero": "Underlord",
+        "disadvantage": 3.51
+      },
+      {
+        "hero": "Necrophos",
+        "disadvantage": 2.78
+      },
+      {
+        "hero": "Clockwerk",
+        "disadvantage": 2.62
+      },
+      {
+        "hero": "Meepo",
+        "disadvantage": 2.09
+      },
+      {
+        "hero": "Tiny",
+        "disadvantage": 1.94
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Ancient Apparition",
+        "disadvantage": -1.45
+      },
+      {
+        "hero": "Lycan",
+        "disadvantage": -1.54
+      },
+      {
+        "hero": "Legion Commander",
+        "disadvantage": -1.74
+      },
+      {
+        "hero": "Night Stalker",
+        "disadvantage": -1.87
+      },
+      {
+        "hero": "Broodmother",
+        "disadvantage": -2.43
+      }
+    ]
+  },
+  "storm-spirit": {
+    "worst_matchups": [
+      {
+        "hero": "AntiMage",
+        "disadvantage": -4.28
+      },
+      {
+        "hero": "Lone Druid",
+        "disadvantage": 4.05
+      },
+      {
+        "hero": "Riki",
+        "disadvantage": 3.72
+      },
+      {
+        "hero": "Meepo",
+        "disadvantage": 3.38
+      },
+      {
+        "hero": "Pugna",
+        "disadvantage": 3.28
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Keeper of the Light",
+        "disadvantage": -2.53
+      },
+      {
+        "hero": "Zeus",
+        "disadvantage": -2.63
+      },
+      {
+        "hero": "Bloodseeker",
+        "disadvantage": -2.97
+      },
+      {
+        "hero": "Ancient Apparition",
+        "disadvantage": -3.13
+      },
+      {
+        "hero": "Sniper",
+        "disadvantage": -3.18
+      }
+    ]
+  },
+  "sven": {
+    "worst_matchups": [
+      {
+        "hero": "Bristleback",
+        "disadvantage": 2.42
+      },
+      {
+        "hero": "Troll Warlord",
+        "disadvantage": 2.13
+      },
+      {
+        "hero": "Slardar",
+        "disadvantage": 1.82
+      },
+      {
+        "hero": "Wraith King",
+        "disadvantage": 1.71
+      },
+      {
+        "hero": "Dragon Knight",
+        "disadvantage": 1.63
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Elder Titan",
+        "disadvantage": -2.62
+      },
+      {
+        "hero": "Arc Warden",
+        "disadvantage": -2.65
+      },
+      {
+        "hero": "Phantom Lancer",
+        "disadvantage": -3.24
+      },
+      {
+        "hero": "Lycan",
+        "disadvantage": -3.46
+      },
+      {
+        "hero": "Meepo",
+        "disadvantage": -4.42
+      }
+    ]
+  },
+  "techies": {
+    "worst_matchups": [
+      {
+        "hero": "Lifestealer",
+        "disadvantage": 2.26
+      },
+      {
+        "hero": "Medusa",
+        "disadvantage": 2.17
+      },
+      {
+        "hero": "Templar Assassin",
+        "disadvantage": 2.0
+      },
+      {
+        "hero": "Leshrac",
+        "disadvantage": 1.7
+      },
+      {
+        "hero": "Bristleback",
+        "disadvantage": 1.69
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Naga Siren",
+        "disadvantage": -1.98
+      },
+      {
+        "hero": "Monkey King",
+        "disadvantage": -2.29
+      },
+      {
+        "hero": "Lone Druid",
+        "disadvantage": -2.51
+      },
+      {
+        "hero": "Slark",
+        "disadvantage": -3.11
+      },
+      {
+        "hero": "Meepo",
+        "disadvantage": -3.3
+      }
+    ]
+  },
+  "templar-assassin": {
+    "worst_matchups": [
+      {
+        "hero": "Phantom Lancer",
+        "disadvantage": 5.17
+      },
+      {
+        "hero": "Batrider",
+        "disadvantage": 3.71
+      },
+      {
+        "hero": "Arc Warden",
+        "disadvantage": 3.11
+      },
+      {
+        "hero": "Troll Warlord",
+        "disadvantage": 2.99
+      },
+      {
+        "hero": "Treant Protector",
+        "disadvantage": 2.6
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "AntiMage",
+        "disadvantage": 2.11
+      },
+      {
+        "hero": "Ember Spirit",
+        "disadvantage": -2.36
+      },
+      {
+        "hero": "Timbersaw",
+        "disadvantage": -2.45
+      },
+      {
+        "hero": "Skywrath Mage",
+        "disadvantage": -2.58
+      },
+      {
+        "hero": "Outworld Destroyer",
+        "disadvantage": -3.15
+      }
+    ]
+  },
+  "terrorblade": {
+    "worst_matchups": [
+      {
+        "hero": "Naga Siren",
+        "disadvantage": 4.99
+      },
+      {
+        "hero": "Axe",
+        "disadvantage": 4.78
+      },
+      {
+        "hero": "Phantom Lancer",
+        "disadvantage": 4.55
+      },
+      {
+        "hero": "Warlock",
+        "disadvantage": 3.89
+      },
+      {
+        "hero": "Dark Seer",
+        "disadvantage": 3.08
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Night Stalker",
+        "disadvantage": -2.88
+      },
+      {
+        "hero": "Slardar",
+        "disadvantage": -2.89
+      },
+      {
+        "hero": "Shadow Fiend",
+        "disadvantage": -3.45
+      },
+      {
+        "hero": "Broodmother",
+        "disadvantage": -3.46
+      },
+      {
+        "hero": "Medusa",
+        "disadvantage": -3.69
+      }
+    ]
+  },
+  "tidehunter": {
+    "worst_matchups": [
+      {
+        "hero": "Chen",
+        "disadvantage": 8.96
+      },
+      {
+        "hero": "Elder Titan",
+        "disadvantage": 4.03
+      },
+      {
+        "hero": "Razor",
+        "disadvantage": 3.52
+      },
+      {
+        "hero": "Juggernaut",
+        "disadvantage": 3.46
+      },
+      {
+        "hero": "Leshrac",
+        "disadvantage": 2.66
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Silencer",
+        "disadvantage": -2.52
+      },
+      {
+        "hero": "Medusa",
+        "disadvantage": -2.63
+      },
+      {
+        "hero": "Spectre",
+        "disadvantage": -2.83
+      },
+      {
+        "hero": "Phantom Lancer",
+        "disadvantage": -2.96
+      },
+      {
+        "hero": "Wraith King",
+        "disadvantage": -3.08
+      }
+    ]
+  },
+  "timbersaw": {
+    "worst_matchups": [
+      {
+        "hero": "Medusa",
+        "disadvantage": 4.05
+      },
+      {
+        "hero": "Silencer",
+        "disadvantage": 4.01
+      },
+      {
+        "hero": "Outworld Destroyer",
+        "disadvantage": 3.96
+      },
+      {
+        "hero": "Pugna",
+        "disadvantage": 3.51
+      },
+      {
+        "hero": "Grimstroke",
+        "disadvantage": 2.73
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Naga Siren",
+        "disadvantage": -3.05
+      },
+      {
+        "hero": "Axe",
+        "disadvantage": -3.09
+      },
+      {
+        "hero": "Winter Wyvern",
+        "disadvantage": -3.11
+      },
+      {
+        "hero": "Meepo",
+        "disadvantage": -4.19
+      },
+      {
+        "hero": "Phantom Lancer",
+        "disadvantage": -4.78
+      }
+    ]
+  },
+  "tinker": {
+    "worst_matchups": [
+      {
+        "hero": "AntiMage",
+        "disadvantage": -3.28
+      },
+      {
+        "hero": "Faceless Void",
+        "disadvantage": 2.29
+      },
+      {
+        "hero": "Pudge",
+        "disadvantage": 2.19
+      },
+      {
+        "hero": "Visage",
+        "disadvantage": 1.87
+      },
+      {
+        "hero": "Juggernaut",
+        "disadvantage": 1.85
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Underlord",
+        "disadvantage": -1.68
+      },
+      {
+        "hero": "Troll Warlord",
+        "disadvantage": -1.74
+      },
+      {
+        "hero": "Tidehunter",
+        "disadvantage": -1.83
+      },
+      {
+        "hero": "Terrorblade",
+        "disadvantage": -2.19
+      },
+      {
+        "hero": "Ember Spirit",
+        "disadvantage": -2.39
+      }
+    ]
+  },
+  "tiny": {
+    "worst_matchups": [
+      {
+        "hero": "Necrophos",
+        "disadvantage": 3.68
+      },
+      {
+        "hero": "Huskar",
+        "disadvantage": 2.59
+      },
+      {
+        "hero": "Lifestealer",
+        "disadvantage": 2.58
+      },
+      {
+        "hero": "Viper",
+        "disadvantage": 2.56
+      },
+      {
+        "hero": "Undying",
+        "disadvantage": 1.83
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Legion Commander",
+        "disadvantage": -1.96
+      },
+      {
+        "hero": "Naga Siren",
+        "disadvantage": -2.03
+      },
+      {
+        "hero": "Riki",
+        "disadvantage": -2.31
+      },
+      {
+        "hero": "Puck",
+        "disadvantage": -2.33
+      },
+      {
+        "hero": "Broodmother",
+        "disadvantage": -2.6
+      }
+    ]
+  },
+  "treant-protector": {
+    "worst_matchups": [
+      {
+        "hero": "Phoenix",
+        "disadvantage": 2.85
+      },
+      {
+        "hero": "Juggernaut",
+        "disadvantage": 2.08
+      },
+      {
+        "hero": "Timbersaw",
+        "disadvantage": 2.07
+      },
+      {
+        "hero": "Necrophos",
+        "disadvantage": 1.74
+      },
+      {
+        "hero": "Slark",
+        "disadvantage": 1.62
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Elder Titan",
+        "disadvantage": -1.6
+      },
+      {
+        "hero": "Wraith King",
+        "disadvantage": -1.93
+      },
+      {
+        "hero": "Meepo",
+        "disadvantage": -2.09
+      },
+      {
+        "hero": "Pangolier",
+        "disadvantage": -2.14
+      },
+      {
+        "hero": "Templar Assassin",
+        "disadvantage": -2.66
+      }
+    ]
+  },
+  "troll-warlord": {
+    "worst_matchups": [
+      {
+        "hero": "Axe",
+        "disadvantage": 5.36
+      },
+      {
+        "hero": "Razor",
+        "disadvantage": 4.15
+      },
+      {
+        "hero": "Slark",
+        "disadvantage": 3.44
+      },
+      {
+        "hero": "Outworld Destroyer",
+        "disadvantage": 3.18
+      },
+      {
+        "hero": "Bristleback",
+        "disadvantage": 2.73
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "AntiMage",
+        "disadvantage": 4.26
+      },
+      {
+        "hero": "Lycan",
+        "disadvantage": -4.3
+      },
+      {
+        "hero": "Chen",
+        "disadvantage": -4.63
+      },
+      {
+        "hero": "Elder Titan",
+        "disadvantage": -6.12
+      },
+      {
+        "hero": "Meepo",
+        "disadvantage": -7.67
+      }
+    ]
+  },
+  "tusk": {
+    "worst_matchups": [
+      {
+        "hero": "Timbersaw",
+        "disadvantage": 1.96
+      },
+      {
+        "hero": "Batrider",
+        "disadvantage": 1.76
+      },
+      {
+        "hero": "Ember Spirit",
+        "disadvantage": 1.69
+      },
+      {
+        "hero": "Necrophos",
+        "disadvantage": 1.52
+      },
+      {
+        "hero": "Lich",
+        "disadvantage": 1.3
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Lifestealer",
+        "disadvantage": -1.78
+      },
+      {
+        "hero": "Oracle",
+        "disadvantage": -1.83
+      },
+      {
+        "hero": "Legion Commander",
+        "disadvantage": -2.19
+      },
+      {
+        "hero": "Abaddon",
+        "disadvantage": -2.28
+      },
+      {
+        "hero": "Lycan",
+        "disadvantage": -2.44
+      }
+    ]
+  },
+  "underlord": {
+    "worst_matchups": [
+      {
+        "hero": "Rubick",
+        "disadvantage": 6.34
+      },
+      {
+        "hero": "Juggernaut",
+        "disadvantage": 3.11
+      },
+      {
+        "hero": "Lifestealer",
+        "disadvantage": 3.05
+      },
+      {
+        "hero": "Ursa",
+        "disadvantage": 3.01
+      },
+      {
+        "hero": "Elder Titan",
+        "disadvantage": 2.65
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Lone Druid",
+        "disadvantage": -3.42
+      },
+      {
+        "hero": "Phantom Lancer",
+        "disadvantage": -3.43
+      },
+      {
+        "hero": "Naga Siren",
+        "disadvantage": -3.78
+      },
+      {
+        "hero": "Spirit Breaker",
+        "disadvantage": -3.9
+      },
+      {
+        "hero": "Wraith King",
+        "disadvantage": -4.14
+      }
+    ]
+  },
+  "undying": {
+    "worst_matchups": [
+      {
+        "hero": "Medusa",
+        "disadvantage": 4.38
+      },
+      {
+        "hero": "Luna",
+        "disadvantage": 2.97
+      },
+      {
+        "hero": "Ancient Apparition",
+        "disadvantage": 2.08
+      },
+      {
+        "hero": "Meepo",
+        "disadvantage": 1.96
+      },
+      {
+        "hero": "Phantom Lancer",
+        "disadvantage": 1.89
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Abaddon",
+        "disadvantage": -2.51
+      },
+      {
+        "hero": "Wraith King",
+        "disadvantage": -2.63
+      },
+      {
+        "hero": "Oracle",
+        "disadvantage": -2.66
+      },
+      {
+        "hero": "Leshrac",
+        "disadvantage": -2.81
+      },
+      {
+        "hero": "Spectre",
+        "disadvantage": -3.9
+      }
+    ]
+  },
+  "ursa": {
+    "worst_matchups": [
+      {
+        "hero": "Phantom Lancer",
+        "disadvantage": 3.85
+      },
+      {
+        "hero": "Troll Warlord",
+        "disadvantage": 2.89
+      },
+      {
+        "hero": "Shadow Shaman",
+        "disadvantage": 2.88
+      },
+      {
+        "hero": "Clinkz",
+        "disadvantage": 2.66
+      },
+      {
+        "hero": "Bristleback",
+        "disadvantage": 2.65
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Timbersaw",
+        "disadvantage": -2.0
+      },
+      {
+        "hero": "Dark Seer",
+        "disadvantage": -2.2
+      },
+      {
+        "hero": "Nyx Assassin",
+        "disadvantage": -2.26
+      },
+      {
+        "hero": "Pudge",
+        "disadvantage": -2.83
+      },
+      {
+        "hero": "Underlord",
+        "disadvantage": -2.99
+      }
+    ]
+  },
+  "vengeful-spirit": {
+    "worst_matchups": [
+      {
+        "hero": "Phantom Lancer",
+        "disadvantage": 3.94
+      },
+      {
+        "hero": "Tidehunter",
+        "disadvantage": 2.03
+      },
+      {
+        "hero": "Terrorblade",
+        "disadvantage": 1.95
+      },
+      {
+        "hero": "Winter Wyvern",
+        "disadvantage": 1.74
+      },
+      {
+        "hero": "Chaos Knight",
+        "disadvantage": 1.55
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Skywrath Mage",
+        "disadvantage": -0.98
+      },
+      {
+        "hero": "Ancient Apparition",
+        "disadvantage": -1.19
+      },
+      {
+        "hero": "Oracle",
+        "disadvantage": -1.28
+      },
+      {
+        "hero": "Night Stalker",
+        "disadvantage": -1.29
+      },
+      {
+        "hero": "Legion Commander",
+        "disadvantage": -1.7
+      }
+    ]
+  },
+  "venomancer": {
+    "worst_matchups": [
+      {
+        "hero": "Brewmaster",
+        "disadvantage": 2.72
+      },
+      {
+        "hero": "Phantom Lancer",
+        "disadvantage": 2.6
+      },
+      {
+        "hero": "Storm Spirit",
+        "disadvantage": 2.42
+      },
+      {
+        "hero": "Legion Commander",
+        "disadvantage": 2.36
+      },
+      {
+        "hero": "Windranger",
+        "disadvantage": 2.15
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Dragon Knight",
+        "disadvantage": -1.99
+      },
+      {
+        "hero": "Kunkka",
+        "disadvantage": -2.26
+      },
+      {
+        "hero": "Night Stalker",
+        "disadvantage": -2.42
+      },
+      {
+        "hero": "Lone Druid",
+        "disadvantage": -2.47
+      },
+      {
+        "hero": "Axe",
+        "disadvantage": -3.0
+      }
+    ]
+  },
+  "viper": {
+    "worst_matchups": [
+      {
+        "hero": "Phantom Lancer",
+        "disadvantage": 5.37
+      },
+      {
+        "hero": "Chaos Knight",
+        "disadvantage": 3.93
+      },
+      {
+        "hero": "Windranger",
+        "disadvantage": 3.25
+      },
+      {
+        "hero": "Naga Siren",
+        "disadvantage": 3.16
+      },
+      {
+        "hero": "Terrorblade",
+        "disadvantage": 2.8
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Night Stalker",
+        "disadvantage": -2.49
+      },
+      {
+        "hero": "Tiny",
+        "disadvantage": -2.49
+      },
+      {
+        "hero": "Dragon Knight",
+        "disadvantage": -2.98
+      },
+      {
+        "hero": "Bristleback",
+        "disadvantage": -5.0
+      },
+      {
+        "hero": "Huskar",
+        "disadvantage": -6.71
+      }
+    ]
+  },
+  "visage": {
+    "worst_matchups": [
+      {
+        "hero": "Naga Siren",
+        "disadvantage": 5.46
+      },
+      {
+        "hero": "Phantom Lancer",
+        "disadvantage": 4.75
+      },
+      {
+        "hero": "Dark Seer",
+        "disadvantage": 3.76
+      },
+      {
+        "hero": "Winter Wyvern",
+        "disadvantage": 3.32
+      },
+      {
+        "hero": "Medusa",
+        "disadvantage": 3.08
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Nyx Assassin",
+        "disadvantage": -2.4
+      },
+      {
+        "hero": "Outworld Destroyer",
+        "disadvantage": -2.41
+      },
+      {
+        "hero": "Elder Titan",
+        "disadvantage": -2.97
+      },
+      {
+        "hero": "Juggernaut",
+        "disadvantage": -3.03
+      },
+      {
+        "hero": "Necrophos",
+        "disadvantage": -3.19
+      }
+    ]
+  },
+  "void-spirit": {
+    "worst_matchups": [
+      {
+        "hero": "Meepo",
+        "disadvantage": 5.31
+      },
+      {
+        "hero": "Huskar",
+        "disadvantage": 4.16
+      },
+      {
+        "hero": "Lycan",
+        "disadvantage": 3.62
+      },
+      {
+        "hero": "Troll Warlord",
+        "disadvantage": 3.05
+      },
+      {
+        "hero": "Monkey King",
+        "disadvantage": 2.87
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Clinkz",
+        "disadvantage": -2.11
+      },
+      {
+        "hero": "Mars",
+        "disadvantage": -2.15
+      },
+      {
+        "hero": "Puck",
+        "disadvantage": -2.19
+      },
+      {
+        "hero": "Ancient Apparition",
+        "disadvantage": -2.68
+      },
+      {
+        "hero": "Juggernaut",
+        "disadvantage": -2.97
+      }
+    ]
+  },
+  "warlock": {
+    "worst_matchups": [
+      {
+        "hero": "Bristleback",
+        "disadvantage": 2.97
+      },
+      {
+        "hero": "Shadow Fiend",
+        "disadvantage": 2.4
+      },
+      {
+        "hero": "Weaver",
+        "disadvantage": 2.28
+      },
+      {
+        "hero": "Tidehunter",
+        "disadvantage": 2.19
+      },
+      {
+        "hero": "Phoenix",
+        "disadvantage": 2.15
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Enigma",
+        "disadvantage": -3.13
+      },
+      {
+        "hero": "Terrorblade",
+        "disadvantage": -3.31
+      },
+      {
+        "hero": "Chaos Knight",
+        "disadvantage": -3.55
+      },
+      {
+        "hero": "Naga Siren",
+        "disadvantage": -3.85
+      },
+      {
+        "hero": "Phantom Lancer",
+        "disadvantage": -5.83
+      }
+    ]
+  },
+  "weaver": {
+    "worst_matchups": [
+      {
+        "hero": "Faceless Void",
+        "disadvantage": 3.63
+      },
+      {
+        "hero": "Rubick",
+        "disadvantage": 2.42
+      },
+      {
+        "hero": "Naga Siren",
+        "disadvantage": 1.92
+      },
+      {
+        "hero": "Axe",
+        "disadvantage": 1.86
+      },
+      {
+        "hero": "Legion Commander",
+        "disadvantage": 1.83
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Razor",
+        "disadvantage": -2.39
+      },
+      {
+        "hero": "Dark Seer",
+        "disadvantage": -2.4
+      },
+      {
+        "hero": "Juggernaut",
+        "disadvantage": -2.4
+      },
+      {
+        "hero": "Ursa",
+        "disadvantage": -2.54
+      },
+      {
+        "hero": "Keeper of the Light",
+        "disadvantage": -2.55
+      }
+    ]
+  },
+  "windranger": {
+    "worst_matchups": [
+      {
+        "hero": "Centaur Warrunner",
+        "disadvantage": 3.25
+      },
+      {
+        "hero": "Axe",
+        "disadvantage": 2.7
+      },
+      {
+        "hero": "Mars",
+        "disadvantage": 2.36
+      },
+      {
+        "hero": "Bristleback",
+        "disadvantage": 2.29
+      },
+      {
+        "hero": "Spectre",
+        "disadvantage": 2.17
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Meepo",
+        "disadvantage": -2.78
+      },
+      {
+        "hero": "Huskar",
+        "disadvantage": -3.13
+      },
+      {
+        "hero": "Viper",
+        "disadvantage": -3.15
+      },
+      {
+        "hero": "Elder Titan",
+        "disadvantage": -3.3
+      },
+      {
+        "hero": "Lone Druid",
+        "disadvantage": -4.12
+      }
+    ]
+  },
+  "winter-wyvern": {
+    "worst_matchups": [
+      {
+        "hero": "Timbersaw",
+        "disadvantage": 3.19
+      },
+      {
+        "hero": "Sand King",
+        "disadvantage": 2.99
+      },
+      {
+        "hero": "Necrophos",
+        "disadvantage": 2.6
+      },
+      {
+        "hero": "AntiMage",
+        "disadvantage": -2.56
+      },
+      {
+        "hero": "Pugna",
+        "disadvantage": 2.16
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Broodmother",
+        "disadvantage": -2.8
+      },
+      {
+        "hero": "Visage",
+        "disadvantage": -3.32
+      },
+      {
+        "hero": "Legion Commander",
+        "disadvantage": -3.33
+      },
+      {
+        "hero": "Lone Druid",
+        "disadvantage": -4.73
+      },
+      {
+        "hero": "Meepo",
+        "disadvantage": -6.12
+      }
+    ]
+  },
+  "witch-doctor": {
+    "worst_matchups": [
+      {
+        "hero": "Medusa",
+        "disadvantage": 3.38
+      },
+      {
+        "hero": "Bristleback",
+        "disadvantage": 2.69
+      },
+      {
+        "hero": "Broodmother",
+        "disadvantage": 2.58
+      },
+      {
+        "hero": "Faceless Void",
+        "disadvantage": 2.34
+      },
+      {
+        "hero": "Windranger",
+        "disadvantage": 2.22
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Viper",
+        "disadvantage": -1.54
+      },
+      {
+        "hero": "Meepo",
+        "disadvantage": -1.57
+      },
+      {
+        "hero": "Tidehunter",
+        "disadvantage": -1.59
+      },
+      {
+        "hero": "Bloodseeker",
+        "disadvantage": -1.68
+      },
+      {
+        "hero": "Axe",
+        "disadvantage": -2.53
+      }
+    ]
+  },
+  "wraith-king": {
+    "worst_matchups": [
+      {
+        "hero": "Phantom Lancer",
+        "disadvantage": 4.87
+      },
+      {
+        "hero": "Lone Druid",
+        "disadvantage": 4.33
+      },
+      {
+        "hero": "Underlord",
+        "disadvantage": 4.09
+      },
+      {
+        "hero": "Naga Siren",
+        "disadvantage": 3.64
+      },
+      {
+        "hero": "Beastmaster",
+        "disadvantage": 3.42
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Legion Commander",
+        "disadvantage": -1.59
+      },
+      {
+        "hero": "Enigma",
+        "disadvantage": -1.76
+      },
+      {
+        "hero": "Elder Titan",
+        "disadvantage": -1.92
+      },
+      {
+        "hero": "Silencer",
+        "disadvantage": -1.93
+      },
+      {
+        "hero": "Ursa",
+        "disadvantage": -2.08
+      }
+    ]
+  },
+  "zeus": {
+    "worst_matchups": [
+      {
+        "hero": "Meepo",
+        "disadvantage": 3.81
+      },
+      {
+        "hero": "Chen",
+        "disadvantage": 3.44
+      },
+      {
+        "hero": "Broodmother",
+        "disadvantage": 3.04
+      },
+      {
+        "hero": "Storm Spirit",
+        "disadvantage": 2.54
+      },
+      {
+        "hero": "AntiMage",
+        "disadvantage": -2.47
+      }
+    ],
+    "best_matchups": [
+      {
+        "hero": "Riki",
+        "disadvantage": -1.63
+      },
+      {
+        "hero": "Monkey King",
+        "disadvantage": -1.81
+      },
+      {
+        "hero": "Drow Ranger",
+        "disadvantage": -1.9
+      },
+      {
+        "hero": "Shadow Fiend",
+        "disadvantage": -1.9
+      },
+      {
+        "hero": "Sand King",
+        "disadvantage": -3.17
+      }
+    ]
+  }
+}
