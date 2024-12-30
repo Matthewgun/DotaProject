@@ -21,20 +21,39 @@ int main() {
             if (event.type == sf::Event::Closed) {
                 window.close();
             }
+
             if (event.type == sf::Event::MouseButtonPressed) { 
                 if (event.mouseButton.button == sf::Mouse::Left) { 
                     sf::Vector2f mousePos = window.mapPixelToCoords(sf::Mouse::getPosition(window)); 
 
-                    heroLoader.handleMouseClick(mousePos); // Обработка клика по спрайтам
-                    choosing.handleMouseClick(mousePos); // Обработка клика по прямоугольникам
+                    heroLoader.handleMouseClick(mousePos); 
+                    choosing.handleMouseClick(mousePos); 
+                }
+            }
+
+            if (event.type == sf::Event::MouseMoved) {
+                sf::Vector2f mousePos = window.mapPixelToCoords(sf::Mouse::getPosition(window));
+                heroLoader.updateDraggedSpritePosition(mousePos); 
+            }
+
+            if (event.type == sf::Event::MouseButtonReleased) {
+                if (event.mouseButton.button == sf::Mouse::Left) {
+                    heroLoader.stopDragging(); 
+
+                    // Проверка на попадание в прямоугольники при отпускании кнопки мыши.
+                    if(choosing.isPointInsideAnyRectangle(window.mapPixelToCoords(sf::Mouse::getPosition(window)))){  
+                        // Здесь можно добавить логику обработки успешного перетаскивания.
+                    }  
                 }
             }
         }
 
         window.clear(sf::Color(50, 50, 50)); 
 
+
+        choosing.draw(window); 
         heroLoader.draw(window);
-        choosing.draw(window); // Рисуем все прямоугольники
+       
 
         window.display(); 
     }

@@ -13,7 +13,7 @@ FetchContent_Declare(SFML
     GIT_TAG 2.6.x)
 FetchContent_MakeAvailable(SFML)
 
-add_executable(DotaProject main.cpp HeroLoader.cpp Choosing.cpp Spriteinfo.cpp)
+add_executable(DotaProject main.cpp HeroLoader.cpp Choosing.cpp )
 
 # Check and copy openal32.dll if it exists in the project directory
 if(EXISTS "${CMAKE_CURRENT_SOURCE_DIR}/openal32.dll")

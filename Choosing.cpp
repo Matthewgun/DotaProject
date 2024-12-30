@@ -49,6 +49,15 @@ void Choosing::deselectRectangle(int index) {
     }
 }
 
+bool Choosing::isPointInsideAnyRectangle(const sf::Vector2f& point) {
+   for (const auto& rectangle : rectangles) {
+       if (rectangle.getGlobalBounds().contains(point)) {
+           return true; 
+       }
+   }
+   return false; 
+}
+
 void Choosing::handleMouseClick(const sf::Vector2f& mousePos) {
     for (int i = 0; i < rectangles.size(); ++i) { 
         if (rectangles[i].getGlobalBounds().contains(mousePos)) {

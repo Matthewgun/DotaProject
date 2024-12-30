@@ -13,6 +13,7 @@ public:
     void deselectRectangle(int index); // Метод для снятия выделения
     std::vector<sf::RectangleShape>& getRectangles() { return rectangles; } // Доступ к прямоугольникам
     void handleMouseClick(const sf::Vector2f& mousePos);
+    bool isPointInsideAnyRectangle(const sf::Vector2f& point);
 private:
     std::vector<sf::RectangleShape> rectangles; // Вектор для хранения прямоугольников
     std::vector<bool> selected; // Вектор для хранения состояния выделения

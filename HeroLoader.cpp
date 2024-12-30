@@ -1,8 +1,7 @@
 #include "HeroLoader.h"
 #include <iostream>
 
-
-HeroLoader::HeroLoader() {
+HeroLoader::HeroLoader() : dragging(false), draggedSpriteIndex(-1) {
     sprites.resize(4); // Резервируем место для 4 героев
     selected.resize(4, std::vector<bool>(35, false)); // Инициализируем состояние выделения для каждого спрайта
 }
@@ -28,7 +27,7 @@ void HeroLoader::setupHeroSprites(const sf::Texture& texture, std::vector<sf::Sp
     const int spriteWidth = texture.getSize().x / 5; // Ширина одного спрайта (5 столбцов)
     const int spriteHeight = texture.getSize().y / 7; // Высота одного спрайта (7 строк)
 
-    const float horizontalOffset = 80 + (heroIndex * (5,5 * spriteWidth * 0.57f)); // Позиция по горизонтали
+    const float horizontalOffset = 80 + (heroIndex * (5 * spriteWidth * 0.57f)); // Позиция по горизонтали
 
     for (int row = 0; row < 7; ++row) { // Проходим по строкам
         for (int col = 0; col < 5; ++col) { // Проходим по столбцам
@@ -39,7 +38,7 @@ void HeroLoader::setupHeroSprites(const sf::Texture& texture, std::vector<sf::Sp
             sprite.setScale(0.55f, 0.55f); // Масштабирование
             sprite.setPosition(horizontalOffset + (col * spriteWidth * 0.57f), 550 + (row * spriteHeight * 0.57f)); // Позиционирование
             heroSprites.push_back(sprite); // Добавляем спрайт в вектор
-            spriteInfo.addSprite(texture, heroIndex * 35 + row * 5 + col);;
+            
         }
     }
 }
@@ -70,21 +69,38 @@ void HeroLoader::selectSprite(int heroIndex, int spriteIndex) {
 void HeroLoader::deselectSprite(int heroIndex, int spriteIndex) {
     selected[heroIndex][spriteIndex] = false; // Устанавливаем состояние выделения на false
 }
+
 void HeroLoader::handleMouseClick(const sf::Vector2f& mousePos) {
     for (int j = 0; j < 4; ++j) { 
         for (int i = 0; i < 35; ++i) { 
             auto& sprite = sprites[j][i]; 
 
             if (sprite.getGlobalBounds().contains(mousePos)) { 
-                selectSprite(j, i);
-                spriteInfo.printSpriteInfo(j * 35 + i); // Выделяем спрайт при нажатии
-                
+                if (!dragging) {
+                    if (!selected[j][i]) {
+                    dragging = true;
+                    draggedSpriteIndex = j * 35 + i; // Сохраняем индекс перетаскиваемого спрайта
+                    
+                    selectSprite(j, i); // Выделяем спрайт при нажатии
+                    std::cout << "Герой из набора: " << j << ", номер героя: " << i << std::endl;
+                    }
+                }
             } else {
-                deselectSprite(j, i); // Снимаем выделение с других спрайтов
+                deselectSprite(j, i); 
             }
-
-            
-
         }
     }
+}
+
+void HeroLoader::updateDraggedSpritePosition(const sf::Vector2f& mousePos) {
+    if (dragging && draggedSpriteIndex != -1) {
+        int heroIndex = draggedSpriteIndex / 35;
+        int spriteIndex = draggedSpriteIndex % 35;
+        sprites[heroIndex][spriteIndex].setPosition(mousePos); // Обновляем позицию перетаскиваемого спрайта
+    }
+}
+
+void HeroLoader::stopDragging() {
+    dragging = false;
+    draggedSpriteIndex = -1; // Сбрасываем индекс перетаскиваемого спрайта
 }

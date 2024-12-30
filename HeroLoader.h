@@ -4,7 +4,7 @@
 #include <SFML/Graphics.hpp>
 #include <string>
 #include <vector>
-#include "Spriteinfo.h"
+//#include "Spriteinfo.h"
 #include "Choosing.h"
 class HeroLoader {
 public:
@@ -15,12 +15,16 @@ public:
     void selectSprite(int heroIndex, int spriteIndex); // Метод для выделения спрайта
     void deselectSprite(int heroIndex, int spriteIndex); // Метод для снятия выделения
     void handleMouseClick(const sf::Vector2f& mousePos);
+    void updateDraggedSpritePosition(const sf::Vector2f& mousePos);
+    void stopDragging();
 private:
     void setupHeroSprites(const sf::Texture& texture, std::vector<sf::Sprite>& sprites, int heroIndex); // Метод для настройки спрайтов героев
-    SpriteInfo spriteInfo;
+    //SpriteInfo spriteInfo;
     sf::Texture texture1, texture2, texture3, texture4; // Текстуры
     std::vector<std::vector<sf::Sprite>> sprites; // Вектор векторов для хранения спрайтов каждого героя
     std::vector<std::vector<bool>> selected; // Вектор векторов для хранения состояния выделения спрайтов
+     bool dragging; // Для отслеживания состояния перетаскивания
+    int draggedSpriteIndex; // Индекс текущего перетаскиваемого спрайта
 };
 
 #endif // HEROLOADER_H
