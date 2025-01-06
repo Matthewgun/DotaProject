@@ -1,7 +1,7 @@
 #include "winresrc.h"
 
 #define VER_COMPANYNAME_STR      "\0"
-#define VER_LEGALCOPYRIGHT_STR   "Copyright (C) 2007-2024 Laurent Gomila\0"
+#define VER_LEGALCOPYRIGHT_STR   "Copyright (C) 2007-2025 Laurent Gomila\0"
 #define VER_FILEDESCRIPTION_STR  "SFML Audio Module\0"
 #define VER_PRODUCTNAME_STR      "Simple and Fast Multimedia Library\0"
 

@@ -76,14 +76,25 @@ void HeroLoader::handleMouseClick(const sf::Vector2f& mousePos) {
             auto& sprite = sprites[j][i]; 
 
             if (sprite.getGlobalBounds().contains(mousePos)) { 
-                if (!dragging) {
-                    if (!selected[j][i]) {
+                // Если спрайт не выделен и нет другого выделенного спрайта
+                if (!selected[j][i] && !dragging) {
+                    // Снимаем выделение с других спрайтов
+                    for (int k = 0; k < 4; ++k) {
+                        for (int l = 0; l < 35; ++l) {
+                            deselectSprite(k, l);
+                        }
+                    }
+                    // Выделяем текущий спрайт
+                    selectSprite(j, i);
+                    dragging = false; // Перетаскивание не начинается сразу
+                    draggedSpriteIndex = j * 35 + i; // Сохраняем индекс выделенного спрайта
+
+                    // Вывод отладочной информации
+                    std::cout << "Герой из набора: " << j << ", номер героя: " << i << std::endl;
+                } else if (selected[j][i]) {
+                    // Если спрайт уже выделен, начинаем перетаскивание
                     dragging = true;
                     draggedSpriteIndex = j * 35 + i; // Сохраняем индекс перетаскиваемого спрайта
-                    
-                    selectSprite(j, i); // Выделяем спрайт при нажатии
-                    std::cout << "Герой из набора: " << j << ", номер героя: " << i << std::endl;
-                    }
                 }
             } else {
                 deselectSprite(j, i); 
@@ -98,6 +109,7 @@ void HeroLoader::updateDraggedSpritePosition(const sf::Vector2f& mousePos) {
         int spriteIndex = draggedSpriteIndex % 35;
         sprites[heroIndex][spriteIndex].setPosition(mousePos); // Обновляем позицию перетаскиваемого спрайта
     }
+    
 }
 
 void HeroLoader::stopDragging() {
