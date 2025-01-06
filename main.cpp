@@ -2,6 +2,7 @@
 #include <SFML/Window.hpp>
 #include "HeroLoader.h"
 #include "Choosing.h"
+#include "Restart.h"
 
 int main() {
     sf::VideoMode desktopMode = sf::VideoMode::getDesktopMode();
@@ -9,6 +10,8 @@ int main() {
 
     HeroLoader heroLoader;
     Choosing choosing;
+    Restart restartButton;
+
 
     if (!heroLoader.loadHeroTextures()) {
         return -1; 
@@ -27,7 +30,8 @@ int main() {
                     sf::Vector2f mousePos = window.mapPixelToCoords(sf::Mouse::getPosition(window)); 
 
                     heroLoader.handleMouseClick(mousePos); 
-                    choosing.handleMouseClick(mousePos); 
+                    choosing.handleMouseClick(mousePos);
+                    restartButton.handleMouseClick(mousePos);
                 }
             }
 
@@ -53,7 +57,7 @@ int main() {
 
         choosing.draw(window); 
         heroLoader.draw(window);
-       
+        restartButton.draw(window);
 
         window.display(); 
     }
