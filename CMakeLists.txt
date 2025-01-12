@@ -31,5 +31,7 @@ endif()
 # Additional commands for copying assets or other libraries can go here
 
 target_link_libraries(DotaProject PRIVATE sfml-graphics sfml-system sfml-window sfml-audio)
+# Добавьте путь к заголовкам
+target_include_directories(DotaProject PRIVATE ${CMAKE_SOURCE_DIR}/json-develop/single_include)
 
 install(TARGETS DotaProject)

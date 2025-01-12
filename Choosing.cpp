@@ -10,17 +10,20 @@ void Choosing::setupRectangles() {
     const float height = 50.0f;
     
     rectangles.resize(numRectangles);
+    rectangles.resize(numRectangles);
     selected.resize(numRectangles, false);
 
     // Позиционирование: 5 слева и 5 справа
     for (int i = 0; i < numRectangles; ++i) {
         rectangles[i].setSize(sf::Vector2f(width, height));
-        rectangles[i].setFillColor(sf::Color::Green);
+        
 
         if (i < 5) { // Первые 5 прямоугольников слева
             rectangles[i].setPosition(200 + i * (width + 10), 300); // Слева
+            rectangles[i].setFillColor(sf::Color::Green);
         } else { // Остальные 5 прямоугольников справа
             rectangles[i].setPosition(1100 + (i - 5) * (width + 10), 300); // Справа
+            rectangles[i].setFillColor(sf::Color::Red);
         }
     }
 }

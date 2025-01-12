@@ -4,6 +4,36 @@
 HeroLoader::HeroLoader() : dragging(false), draggedSpriteIndex(-1) {
     sprites.resize(4); // Резервируем место для 4 героев
     selected.resize(4, std::vector<bool>(35, false)); // Инициализируем состояние выделения для каждого спрайта
+
+        // Очищаем содержимое файла HeroList.txt при запуске
+    std::ofstream heroFile("HeroList.txt", std::ios::trunc);
+    if (!heroFile.is_open()) {  
+        std::cerr << "Ошибка: не удалось открыть файл HeroList.txt для очистки!" << std::endl;
+    }
+    heroFile.close();
+
+     // Загружаем имена героев
+    if (!loadHeroNames()) {
+        std::cerr << "Failed to load hero names!" << std::endl;
+    }
+}
+
+bool HeroLoader::loadHeroNames() {
+    std::ifstream inFile("AllHeroList.txt");  // Открываем файл с именами героев
+    if (!inFile) {
+        std::cerr << "Не удалось открыть файл AllHeroList.txt" << std::endl;
+        return false;
+    }
+
+    std::string line;
+    while (std::getline(inFile, line)) {
+        heroList.push_back(line);  // Добавляем каждое имя в вектор
+    }
+
+    inFile.close();
+        // Печатаем количество считанных имен
+    std::cout << "Loaded " << heroList.size() << " hero names." << std::endl;
+    return true;
 }
 
 bool HeroLoader::loadHeroTextures() {
@@ -71,6 +101,12 @@ void HeroLoader::deselectSprite(int heroIndex, int spriteIndex) {
 }
 
 void HeroLoader::handleMouseClick(const sf::Vector2f& mousePos) {
+     static int selectedCount = 0;
+    std::ofstream heroFile("HeroList.txt", std::ios::app); // Режим "append" для добавления в файл
+    if (!heroFile.is_open()) {
+        std::cerr << "Ошибка: не удалось открыть файл HeroList.txt для записи!" << std::endl;
+        return;
+    }
     for (int j = 0; j < 4; ++j) { 
         for (int i = 0; i < 35; ++i) { 
             auto& sprite = sprites[j][i]; 
@@ -88,9 +124,27 @@ void HeroLoader::handleMouseClick(const sf::Vector2f& mousePos) {
                     selectSprite(j, i);
                     dragging = false; // Перетаскивание не начинается сразу
                     draggedSpriteIndex = j * 35 + i; // Сохраняем индекс выделенного спрайта
-
+                    int index;
                     // Вывод отладочной информации
-                    std::cout << "Герой из набора: " << j << ", номер героя: " << i << std::endl;
+                    if (j == 0)
+                        index = i;
+                    else if (j == 1)
+                        index = 32 + i;
+                    else if (j == 2) 
+                        index = 63 + i;
+                    else
+                        index = 94 + i;
+                    std::cout << heroList[index] << std::endl;
+                    
+                    if ((selectedCount / 2) % 2 == 1)
+                        heroFile << heroList[index] << std::endl; // Записываем имя героя в файл
+                    selectedCount++;
+                    // Вызов парсера после записи 8-го героя
+                    if (selectedCount == 8) {
+                        std::cout << "Запущен парсер для анализа матчапов!" << std::endl;
+                        
+                    }
+
                 } else if (selected[j][i]) {
                     // Если спрайт уже выделен, начинаем перетаскивание
                     dragging = true;

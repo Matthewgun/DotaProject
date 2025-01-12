@@ -4,19 +4,19 @@
 cmake_minimum_required(VERSION 3.5)
 
 file(MAKE_DIRECTORY
-  "C:/DotaProject/build/_deps/sfml-src"
-  "C:/DotaProject/build/_deps/sfml-build"
-  "C:/DotaProject/build/_deps/sfml-subbuild/sfml-populate-prefix"
-  "C:/DotaProject/build/_deps/sfml-subbuild/sfml-populate-prefix/tmp"
-  "C:/DotaProject/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp"
-  "C:/DotaProject/build/_deps/sfml-subbuild/sfml-populate-prefix/src"
-  "C:/DotaProject/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp"
+  "C:/Users/matve/Downloads/DotaProject/build/_deps/sfml-src"
+  "C:/Users/matve/Downloads/DotaProject/build/_deps/sfml-build"
+  "C:/Users/matve/Downloads/DotaProject/build/_deps/sfml-subbuild/sfml-populate-prefix"
+  "C:/Users/matve/Downloads/DotaProject/build/_deps/sfml-subbuild/sfml-populate-prefix/tmp"
+  "C:/Users/matve/Downloads/DotaProject/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp"
+  "C:/Users/matve/Downloads/DotaProject/build/_deps/sfml-subbuild/sfml-populate-prefix/src"
+  "C:/Users/matve/Downloads/DotaProject/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp"
 )
 
 set(configSubDirs )
 foreach(subDir IN LISTS configSubDirs)
-    file(MAKE_DIRECTORY "C:/DotaProject/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/${subDir}")
+    file(MAKE_DIRECTORY "C:/Users/matve/Downloads/DotaProject/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/${subDir}")
 endforeach()
 if(cfgdir)
-  file(MAKE_DIRECTORY "C:/DotaProject/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp${cfgdir}") # cfgdir has leading slash
+  file(MAKE_DIRECTORY "C:/Users/matve/Downloads/DotaProject/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp${cfgdir}") # cfgdir has leading slash
 endif()
